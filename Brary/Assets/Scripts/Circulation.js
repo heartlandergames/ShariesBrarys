@@ -42,29 +42,42 @@ function GetBooks()
 
     var noFiles : int = files.length;
 
-    var noShelves : int = noFiles / 200;
+    /*  var noShelves : int = noFiles / 200;
+  
+      var remShelves : int = noFiles % 200;
+      
+      
+          for (var i = 0; i<= noShelves; i++)
+          {
+             
+              var shelf : GameObject = Instantiate(bookshelf, stackList[i].transform.position, stackList[i].transform.rotation);
+              shelf.GetComponent(Bookshelf).FillShelves(files);
+          }
+      
+  
+      Debug.Log(noShelves);
+      Debug.Log(remShelves);
+  
+      for (var file in files)
+      {
+          if(file.EndsWith(".txt"))
+          {
+             // Debug.Log(file);
+          }
+      }
+      */
 
-    var remShelves : int = noFiles % 200;
-    
-    
-        for (var i = 0; i<= noShelves; i++)
-        {
-           
-            var shelf : GameObject = Instantiate(bookshelf, stackList[i].transform.position, stackList[i].transform.rotation);
-            shelf.GetComponent(Bookshelf).FillShelves(files);
-        }
-    
+    var list  : List.<GameObject> = GetEmptySpots();
 
-    Debug.Log(noShelves);
-    Debug.Log(remShelves);
-
-    for (var file in files)
+    for (var i = 0; i < noFiles; i++)
     {
-        if(file.EndsWith(".txt"))
-        {
-           // Debug.Log(file);
-        }
+        var spot : int = Random.Range(0, list.Count -1);
+        var newBook = Instantiate(book, list[spot].transform.position, list[spot].transform.rotation);
+        newBook.AddComponent(Book);
+        newBook.name = files[i];
+        Destroy(list[spot]);
     }
+
 
     populated = true;
 }
@@ -74,20 +87,39 @@ function GetBooks1()
     var folder: String = EditorUtility.OpenFolderPanel("Books Location", "", "");
     var info = new DirectoryInfo(folder);
     var fileInfo = info.GetFiles();
+    var list : List.<GameObject> = GetEmptySpots();
+
+
     for(file in fileInfo)
     {
-        if(file.Extension == ".txt")
-            var newBook : GameObject = Instantiate(book, transform.position, transform.rotation);
-            var stack : GameObject = stackList[Random.Range(0, stackList.Count -1)];
-            newBook.transform.position = stack.transform.position;
-            //newBook.transform.position.y += stack.GetComponent(BookStack).height * book.GetComponent(BoxCollider).bounds.size.y     ;
-            stack.GetComponent(BookStack).height++;
-            newBook.transform.rotation.y = Random.Range(0,360);
-            newBook.name = file.Name;         
-            newBook.AddComponent(Book);
-            newBook.GetComponent(Book).file = file;
-            //yield WaitForSeconds(.25);
+        var spot : int = Random.Range(0, list.Count-1);
+
+        if(file.Extension == ".txt" || file.Extension ==".mobi")
+            var newBook : GameObject = Instantiate(book, list[spot].transform.position, list[spot].transform.rotation);
+        //var stack : GameObject = stackList[Random.Range(0, stackList.Count -1)];
+        //newBook.transform.position = stack.transform.position;
+        //newBook.transform.position.y += stack.GetComponent(BookStack).height * book.GetComponent(BoxCollider).bounds.size.y     ;
+        //stack.GetComponent(BookStack).height++;
+        //newBook.transform.rotation.y = Random.Range(0,360);
+        newBook.name = file.Name;         
+        newBook.AddComponent(Book);
+        newBook.GetComponent(Book).file = file;
+        Destroy(list[spot]);
+        list.Remove(list[spot]);
     }
 
     populated = true;
+}
+
+function GetEmptySpots() : List.<GameObject>
+    {
+        var emptyList : List.<GameObject> = new List.<GameObject>();
+        var emptyArr : GameObject[] = GameObject.FindGameObjectsWithTag("EMPTY");
+        for (var slot : GameObject in emptyArr)
+        {
+            emptyList.Add(slot);
+            Destroy(slot);
+        }
+
+    return emptyList;
 }
