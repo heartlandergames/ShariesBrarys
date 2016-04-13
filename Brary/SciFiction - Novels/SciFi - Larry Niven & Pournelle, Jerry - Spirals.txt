@@ -1,0 +1,515 @@
+
+
+
+
+
+
+SPIRALS
+
+
+by Larry Niven and Jerry Pournelle
+
+
+	There are always people who want to revise history. No hero is so great that someone won’t take a shot at him. Not even Jack Halfey.
+	Yes, I knew Jack Halfey. You may not remember my name. But in the main airlock of industrial Station One there’s an inscribed block of industrial diamond, and my name is sixth down: Cornelius L. Riggs, Metallurgist. And you might have seen my face at the funeral.
+	You mast remember the funeral. All across the solar system work stopped while Jack Halfey took his final trek into the sun. He wanted it that way, and no spacer was going to refuse Jack Halfey’s last request, no matter how expensive it might be. Even the downers got in the act. They didn’t help pay the cost, but they spent hundreds of millions on sending reporters and cameras to the Moon..
+	That funeral damned near killed me. The kids who took me to the Moon weren’t supposed to let the ship take more than half a gravity. My bones are over a hundred years old, and they’re fragile. For that young squirt of a pilot the landing may have been smooth, but she hit a full gee for a second there, and I thought my time had come.
+	I had to go, of course. The records say I was Jack’s best friend, the man who’d saved his life, and being one of the last survivors of the Great Trek makes me somebody special. Noth ing would do but that I push the button to send Jack on his “final spiral into the sun.” to quote a downer reporter.
+	I still see TriVee programs about ships “spiraling” into the sun. You’d think seventy yeals and more after the Great Trek the schools would teach kids something about space.
+	When I staggered outside in lunar gravity—lighter than the 20% gravity we keep in the Skylark. just enough to feel the difference—the reporters were all over me. Why, they demanded, did Jack want to go into the sun? Cremation and scattering of ashes is good enough for most spacers. It was good enough for Jack’s wife. Some send their ashes back to Earth; some are scattered into the solar wind, to be flung throughout the universe; some prefer to go back into the soil of a colony sphere. But why the sun?
+	I’ve wondered myself. I never was good at reading Jack’s mind. The question that nearly drove me crazy, and did drive me to murder, was: why did Jack Halfey make the Great Trek in the first place?
+	I finally did learn the answer to that one. Be patient.
+
+	Probably there will never be another funeral like Jack’s. The Big Push is only a third finished, and it’s still two hundred miles of the biggest linear accelerator ever built, an electronicpowered railway crawling across the Earthside face of the Moon. One day we’ll use it to launch starships. We’ll fire when the Moon is full, to add the Earth’s and Moon’s orbital velocities to the speed of the starship, and to give the downers a thrill. But we launched Jack when the Moon was new, with precisely enough velocity to cancel the Earth’s orbital speed of eighteen miles per second, It would have cost less to send him into interstellar space.
+	Jack didn’t drop in any spiral. The Earth went on and the coffin stayed behind, then it started to fall into the Sun. It fell ninety-three million miles just like a falling safe, except for that peculiar wiggle when he really got into the sun’s magnetic field. Moonbase is going to do it again with a probe. They want to know more about that wiggle.
+	The pilot was a lot more careful getting me home, and now I’m back aboard the Skylailc in a room near the axis where the heart patients stay; and on my desk is this pile of garbage
+from a history professor at Harvard who has absolutely proved that we would have had space industries and space colonies without Jack Halfey. There are no indispensible men.
+	In the words of a famous American president: Bullshit! We’ve made all the downers so rich that they can’t remember what it was like back then.
+	And it was grim. If we hadn’t got space industries established before 2020 we’d never have been able to afford them at all. Things were that thin. By 2020 AD. there wouldn’t have been any resources to invest. They’d have all gone into keeping eleven billion downers alive (barely!) and anybody who proposed “throwing money into outer space” would have been lynched.
+	God knows it was that way when Jack Halfey started.
+
+	I first met Jack Halfey at UCLA. He was a grad student in architecture, having got his engineering physics degree from Cal Tech. He’d also been involved in a number of construction jobs—among them Hale Observatory’s big orbital telescope while he was still an undergrad at Cal Tech—and he was already famous. Everyone knows he was brilliant, and they’re right, but he had another secret weapon: he worked his arse off. He had to. Insomnia. Jack couldn’t sleep more than a couple of hours a night, and to get even that much sleep he had to get laid first.
+	I know about this because when I met, Jack he was living with my sister. Ruthie told me that they’d go to bed, and Jack would sleep a couple of hours, and up he’d be, back at work, because once he woke up there was no point in lying in bed.
+	On nights when they couldn’t make Out he fltver went to bed at all, and he was pure hell to live with the next day.
+	She also told me he was one mercenary son of a bitch. That doesn’t square with the public image of Jack Halfey, savior of mankind, but it happens to be true, and he never made much of a secret of it. He wanted to get rich fast. His ambition was to lie around Rio de Janeiro’s beaches and sample the local wines and women; and he had his life all mapped out so that he’d be able to retire before he was forty.
+	I knew him for a couple of months, then he left UCLA to be a department head in the construction of the big Tucson arcology. There was a tearful scene with Ruthie: she didn’t fit
+into Jack’s image for the future, and he wasn’t very gentle about how he told her he was leaving. He stormed out of her apartment carrying his suitcase while Ruthie and I~ shouted curses at him, and that was that.
+	I never expected to see him again.
+	When I graduated there was this problem: I was a metallurgist, and there were a lot of us. Metallurgists had been in big demand when I started UCLA, so naturally everybody studied metallurgy and matCrials science; by the time I graduated it was damned tough getting a job.
+	The depression didn’t help much either. I graduated right in the middle of it. Runaway inflation, research chopped to the bone, environmentalists and Only One Earthers and Friends of Man and the Earth and other such yo-yo’s on the rise; in those days there was a new energy crisis every couple of years, and when I got my sheepskin we were in the middle of. I think, number 6. Industry was laying off, not hiring.
+	There was one job I knew of. A notice on the UCLA careers board. “Metallurgist wanted. High pay, long hours, high risk. Guaranteed wealthy in ten years if you live through it.”
+	That doesn’t sound very attractive just now, but in those days it looked better. Better than welfare, anyway, especially since the welfare offices were having trouble meeting their staff payrolls, so there wasn’t a lot left over to hand Out to their clients.
+	So, I sent in an application and found myself one of about a hundred who’d got past the paperwork screening. The interview was on campus with a standard personnel officer type who seemed more interested in my sports record than my abilities as a metallurgist. He also liked my employment history: I’d done summer jobs in heavy steel construction. He wouldn’t
+tell me what the job was for.
+	“Not secret work,” he said. “But we’d as soon not let it out to anyone we’re not seriously interested in.” He smiled and stood up, indicating the interview was over. “We’ll let you know”
+	A couple of days later I got a call at the fraternity house.
+	They wanted me at the Wilshire headquarters of United Space Industries.
+
+	I checked around the house. but didn’t get any new information. USI had contracts for a good bit of space work, including the lunar mines. Maybe that’s it. I thought. I could hope, anyway.
+	When I got to USI the receptionist led me into a comfortable room and asked me to sit down in a big Eames chair. The chair faced an enormous TV screen (flat: TriVee wasn’t common in those days. Maybe it was before TriVee at all; it’s been a long time, and I don’t remember). She typed something on an input console, and we waited a few minutes, and the screen came
+to life.
+	It showed an old man floating in mid-air..
+	The background looked like a spacecraft, which wasn’t surprising. I recognized Admiral Robert McLeve. He had to be eighty or more, but he didn’t look it.
+	“Good morning,” he said.
+	The receptionist left. “Good morning,” I told the screen. There was a faint red light on a lens by the screen, and I assumed he could see me as well as! could see him. “I’d kind of hoped for the Moon. I didn’t expect the O’Neill colony,” I added.
+	It took a while before he reacted, confirming my guess: a second and a half each way for the message, and the way he was floating meant zero gravity. I couldn’t think of anything but the Construction Shack (that’s what they called it then) that fit the description.
+	“This is where we are,” McLeve said. “The duty tour is five years. High pay, and you save it all. Not mush to spend money on out here. Unless you drink. Good liquor costs like U’ansplant rights on your kidneys. So does bad liquor, because you still have to lift it.”
+	“Savings don’t mean much,” I said.
+	“True.” McLeve grimaced at the thought. Inflation was running better than 20%. The politicians said they would have it whipped Real Soon Now, but nobody believed them. “We’ve got arrangements to have three quarters of your money banked in Swiss francs. If you go back early, you lose that part of your pay. We need somebody in your field, part time on the Moon, part time up here in the Shack. From your record I think you’d do. Still want the job?”
+Industries.	
+	I wanted it all right. I was never a nut on the space industries bit—I was never a nut on anything—but it sounded like good work. Exciting, a chance to see something of the solar system (well, of near-Earth space and the Moon; nobody had gone further than that) as well as to save a lot of money. And with that job on my record I’d be in demand when I came home.
+	As to why me. it was obvious when I thought about it. There were lots of good metallurgists, but not many had been finalists in the Olympic gymnastics team trials. I hadn’t won a place on the team, but I’d sure proved I knew how to handle myself. Add to that the heavy construction work experience and I was a natural. I sweated out the job appointment, but it came through, and pretty soon I was at Canaveral. strapping myself into a Shuttle seat, and having second and third thoughts about the whole thing.
+	There were five of us. We lifted out from the Cape in the Shuttle, then transfened in Earth orbit to a tug that wasn’t a lot bigger than the old Apollo capsules had been. The trip was three days, and crowded. The others were going to Moon base. They refueled my tug in lunar orbit and sent me off alone to the Construction Shack. The ship was guided from the Shack.
+and It was scary as hell becaus~there wasn’t anything to do but wonder if they knew what they were doing. It took as long to get from the Moon to the Shack as it had to get to the Moon from Earth,. which isn’t surprising because it’s the same dis. tance: the Shack was in one of the stable libration points that make an equilateral triangle with the Earth and the MoOn. Anything put there will stay there forever.
+	The only viewport was a small thing in the forward end of the tug. Naturally we came in ass-backwards so I didn’t see much.
+	Today we call it the Skylark, and what you see as you approach is a sphere half a kilometer across. It rotates every two minutes, and there’s all kinds of junk moored to the axis of rotation. Mirrors, the laser and power targets, the long thin spine of the mass driver, the ring of agricultural pods, the big telescope; a confusion of equipment.
+	It wasn’t that way when I first saw it. The sphere was nearly all there was, except for a spiderweb framework to hold the solar power panels. The frame was bigger than the sphere, but
+it didn’t look very substantial. At first sight the Shack was a pebbled sphere, a golf ball stuck in a spider’s web.
+	McLeve met me at the airlock. He was long of limb, and startlingly thin, and his face and neck were a maze of wrinkles. But his back was straight, and when he smiled the wrinkles all aligned themselves. Laugh-lines.
+	Before I left Earth I read up on his history: Annapolis, engineer with the space program (didn’t make astronaut because of his eyes); retired with a bad heart; wrote a lot of science fiction. I’d read most of his novels in high school, and I suppose half the people in the space program were pulled in by his stories.
+	When his wife died he had another heart attack. The Old Boys network came to the rescue. His classmates wangled an assignment in space for him. He hadn’t been to Earth for seven years, and low gravity was all that kept him alive. He didn’t even dare go to the Moon. A reporter with a flair for mythological phraseology called him “The Old Man of Space.” It was certain that he’d never go home again, but if he missed Earth he didn’t show it.
+	“Welcome aboard.” He sounded glad to see me. “What do they call you?” he asked.
+	A good question. Cornelius might sound a dignified name to a Roman, but it makes for ribald comments in the USA. “Corky,” I told him. I shrugged, which was a mistake: we were at the center of the sphere, and there wasn’t any gravity at all. I drifted free from the grabbandle I’d been clinging to and drifted around the airlock.
+	After a moment of panic it turned out to be fun. There hadn’t been mom for any violent maneuvers in the tug, but the airlock was built to get tugs and rocket motors inside for repairs; it was big, nine meters acrOss, and I could twirl around in the zero gravity. I flapped my arms and found I could swim.
+	McLeve was watching with a critical air. He must have liked what he saw because he grinned slightly. “Come on,” he said. He turned in the air and drifted without apparent motion— it looked like levitation. “I’ll show’ you around.” He led the way out of the airlock into the sphere itself.
+	We were at the center of rotation. All arnund, above and below, were fields of dirt, some plowed, some planted with grass and grains.
+	There were wings attached to hooks at the entrance. McLeve took down a set and began strapping them on. Black bat wings. They made him look like a fallen angel, Milton’s style. He handed me another pair. “Like to fly?” he asked. I returned the grin. “Why not?” I hadn’t the remotest idea of what I was doing, but if I could swim in the’ air with my hands. I ought to be able to handle wings in no gravity. He helped me strap in, and when I had them he gave some quick instructionS.
+	“Main thing is to stay high,” he said. “The further down the higher the gravity, and the tougher it is to control these things.” He launched himself into space, gliding across the center of the sphere. After a moment I followed him.
+	I was a tiny chick in a vast eggshell. The landscape was wrapped around me: fields and houses, and layout yards of construction gear, and machinery, and vats of algae, and three huge windows opening on blackness. Every direction was down, millions of light years down when a window caught my atten.lion. For a moment that was terrifying. But McLeve held himself in place with tiny motions of his wings, and his eyes were on me. I swallowed my fear and looked.
+	There were few roads. Mostly the colonists flew with their wings, flew like birds, and if they didn’t need roads, they didn’t need squared-off patterns for the buildings either. The “houses” looked like they’d been dropped at random among the green fields. They were fragile partitions of sheet metal (wood was far more costly than sheet steel here), and they could not have borne their own weight on Earth, let alone stand up to a stiff breeze. They didn’t have to. They existed for privacy alone.
+	I wondered about the weather. Along the axis of the sphere I could see scores. of white pufiballs. Clouds? I gathered my courage and flapped my way over to the white patch. It was a flock of hens. Their feet were drawn up. their heads were tucked under their wings, and they roosted on nothing.
+	“They like it in zero gravity." McLeve said. “Only thing is, when you’re below them you have to watch out.”
+	He pointed. A blob of chicken splat had left the flock and moved away from us. It fell in a spiral pattern. Of course the splat was actually going in a straight line—we were the ones who were rotating, and that made the falling stuff look as if it were spiraling to the ground below.
+	“Automatic fertilizer machine,” I said. McLeve nodded.
+	“I wonder you don’t keep them caged,” I said.
+	“Some people like their sky dotted with fleecy white hens.”
+	“Oh. Where is everybody?” I asked.
+	“Most are outside working.” McLeve said. “You’ll meet them at dinner.”
+	We stayed at the axis, drifting with the air currents, literally floating on air. I knew already why people who came here wanted to stay I’d never experienced anything like it, soaring like a bird. It wasn’t even like a sail plane: you wore the wings and you flew with-them, you didn’t sit in a cockpit and move controls around.
+	There were lights along part of the axis. The mirrors would take over their job when they were installed; for the moment the lights ran off solar power cells plastered over the outside of the sphere. At the far end of the sphere was an enormous cloud of dust We didn’t get close to it. I pointed and looked a question.
+	“Rock grinder,” McLeve said. “Making soil. We spread it over the northern end.” He laughed at my frown. “North is the end toward the sun. We get our rocks from the Moon. It’s our radiation shielding. Works just as well if we break it up and spread it around, and that way we can grow crops in it. Later on we’ll get the agricultural compartments built, but there’s always five times as much work as we have people to do it with.”
+	They’d done pretty well already. There was grass, and millet and wheat for the chickens, and salad greens and other vegetable crops. Streams ran through the fields down to a ringshaped pond at the equator. There was also a lot of bare soil that had just been put in place and hadn’t been planted. The Shack wasn’t anywhere near finished.
+	“How thick is that soil?” I asked.
+	“Not thick enough. I was coming to that. If you hear the flare warnings, get to my house. North pole.”
+	I thought that one over. The only way to ward yourself from a solar flare is to put a lot of mass between you and, the sun. On Earth that mass is a hundred miles of air. On the Moon they burrow ten meters into the regolith, The Shack had only the rock we could get from the Moon, and Moonbase had problems of its own. When they had the manpower and spare energy they’d throw more rock our way, and we’d plaster it across the outer shell of the Shack, or grind it up and put it inside; but for now there wasn’t enough, and come flare time McLeve was host toan involuntary lawn party.
+	But what the hell, I thought. It’s beautiful. Streams rushing in spirals from pole to equator. Green fields and houses, skies dotted with fleecy white hens; and I was flying as man flies in dreams.
+	I decided it was going to be fun, but there was one possible hitch.
+	“There are only ten women aboard,” I said.
+	McLeve nodded gravely
+	“And nine of them are married.”
+	He nodded again. “Up to now we’ve mostly needed muscle. Heavy construction experience and muscle. The next big crew shipment’s in six months, and the company’s trying like hell to recruit women to balance things off. Think you can hold out that long?”
+	“Guess I have to.”
+	“Sure. I’m old navy. We didn’t have women aboard ships and we lived through it.”
+	I was thinking that I’d like to meet the one, unmarried woman aboard. Also that she must be awfully popular. McLeve must have read my thoughts, because he waved me toward a’ big stnlcture perched on a ledge partway down from the north pole. “You’re doing all right on the flying. Take it easy and let’s go over there.”
+	We soared down, and I began to feel a definite “up” and “down”; before that any direction I wanted it to be was “up.” We landed in front of the building.
+	“Combination mess hail and administration offices,” McLeve said. “Ten percent level.”
+	It took a moment before I realized what he meant. Ten percent level- ten percent of Earth’s gravity.
+	“It’s as heavy as I care to go.” McLeve said. “And any lighter makes it hard to eat. The labs are scattered around the ring at the same level.”
+	He helped me off with my wings and we went inside. There were several people, all men, scurrying about purposefully. They didn’t stop to meet me.
+	They weren’t wearing much, and I soon found that was the custom in the Shack; why wear clothes inside? There wasn’t any weather. It was always warm and dry and comfortable. You mostly needed clothes for pockets.
+	At the end of the corridor was a room that hummed; inside there was a bank of computer screens, all active. In front of them sat a homely girl.
+	“Miss Hoffman,” McLeve said. “Our new metallurgist, Corky Riggs.”
+	“Hi.” She looked at me for a moment, then back at the computer console. She was mumbling something to herself as her fingers flew over the keys.
+	“Dot Hoffman is our resident genius,” McLeve said. “Anything from stores and inventories to orbit control, if a computer can figure it out she can make the brains work the problem.”
+	She looked up with a smile. “We give necessity the praise of virtue,” she said.
+McLeve looked thoughtful. “Cicero?” “Quintilian.” She turned back to her console again, “See you at dinner,” McLeve said. He led me out.
+	“Miss Hoffman,” Isaid.
+	He nodded.
+	“I suppose she wears baggy britches and blue wool stockings and that shiti because it’s cool in the computer room,” I said.
+	“No, she always dresses that way
+	“Oh.”
+	“Only six months, Riggs,” the Admiral said. “Well, maybe a year. You’ll survive.”
+	I was thinking I’d damned well have to.
+	I fell in love during dinner.
+	The chief engineer was named Ty Plauger, a long, lean chap with startling blue eyes. The chief ecologist was his wife, Jill. They had been married about a year before they came up, and they’d been aboard the Shack for three, ever since it started up. Neither was a lot older than me, maybe thirty then.
+	At my present age the concept of love at first sight seems both trite and incredible, but it was true enough. I suppose I could have named you reasons then, but I don’t feel them now.
+Take this instead:
+	There were ten women aboard out of ninety total. Nine were married, and the tenth was Dot Hoffman. My first impression of her was more than correct. Dot never would be married.
+Not only was she homely, but she thought she was homelier still. She was terrified of physical contact with men, and the blue wool stockings and blouse buttoned to the neck were the least of her defenses.
+	If I had to be in love—and at that age, maybe I did—I could choose among nine married women. Jill was certainly the prettiest of the lot. Pug nose, brown hair chopped off short, green eyes, and a compact muscular shape. very much the shape of a woman. She liked to talk, and I liked to listen.
+	She and Ty had stars in their eyes. Their talk was full of what space would do for mankind.
+	Jill was an ex-Fromate; she’d been an officer in the Friends of Man and the Earth. But while the Fromates down below were running around sabotaging industries and arcologies and nuclear plants and anything else they didn’t like, Jill went to space Her heart bled no less than any for the baby fur seals and the three-spined stickleback and all the fish killed by mine tailings, but she’d thought of something to do about it all.
+	“We’ll put all the dirty industries into space,” she told me. “Throw the pollution into the solar wind and let it go Out to the cometary halo. The Fromates think they can talk everyone into letting Kansas go back to buffalo grass—”
+	“You can’t make people want to be poor,” Ty put in.
+	“Right! If we want to clean up the Earth and save the wild things, we’ll have to give people a way to get rich without harming the environment. This is it! Someday we’ll send down enough power from space that we can tear down the dams and put the snail darter back where he caine from.”
+	And more. Jill tended to do most of the talking. I wondered about Ty. He always seemed to have the words that would set her off again.
+	And one day, when we were clustered around McLeve’s house with, for a few restful hours, nothing to do, and Jill was well out of earshot flying awundand among the chickens in her wonderfully graceful wingstyle, Ty said to me, “I don’t care if we turn the Earth into a park. I like space. I like flying, and I like free fall, and the look of stars with no air to cloud them. But don’t tell Jill.”
+
+	I learned fast. With Ty in charge of engineering, McLeve as chief administrator, and Dot Hoffman’s computers to simulate the construction and point up problems before they arose, the project went well. We didn’t get enough mass from the Moon, so that my smelter was always short of raw materials, and Congress didn’t give us enough money. There weren’t enough flights from down below and we were short of personnel and goods from Earth. But we got along.
+	Two hundred and forty thousand miles below us,everything was going to hell.
+	First, the senior senator from Wisconsin lived long enough to inherit a powerful committee chairmanship, and he’d been against the space industries from the start. Instead of money we got “Golden Fleece” awards. Funds already appropriated for flights we’d counted on got sliced, and our future budgets were completely in doubt.
+	Next, the administration tried to bail itself out of the tax revolt by running the printing presses. What money we could get appropriated wasn’t worth half as much by the time we got it.
+	Moonbase felt the pinch and cut down even more on the rock they flung out our way.
+	Ty’s answer was to work harder: get as much of the Shack finished as we could, so that we could start sending down power.
+	“Get it done,” he told us nightly. “Get a lot of it finished. Get so much done that even those idiots will see that we’re worth it. So much that it’ll cost them less to supply us than to bring us home.”
+	He worked himself harder than anyone else, and Jill was right out there with him. The first task was to get the mirrors operating.
+	We blew them all at once over a couple of months. They came in the shuttle that should have brought our additional crew; it wasn’t much of a choice, and we’d have to put off balancing out the sex ratio for another six months.
+	The mirrors were packages of fabric as thin as the cellophane on a package of cigarettes. We inflated them into great spheres, sprayed foam plastic on the outside for struts, and sprayed silver vapor inside where it would precipitate in a thin layer all over. Then we cut them apart to get spherical mirrors. and sliced a couple of those into wedges to mount behind the windows in the floor of the Shack.
+	They reflected sunlight in for additional crops. Jill had her crew out planting more wheat to cut down on the supplies we’d need from Earth.
+	Another of the mirrors was my concern. A hemisphere a quarter of a kilometer across can focus a lot of sunlight onto a small point. Put a rock at that point and it melts, fast. When we got that set up we were all frantically busy smelting iron for construction out of the rocks. Moonbase shIpped up when they could. When Moonbase couldn’t fling us anything we dismounted rock we’d placed for shielding, smelted it, and plastered the slag back onto the sphere.
+	Days got longer and longer. There’s no day or night aboard the Shack anyway, of course: open the mirrors and you have sunlight, close them and you don’t. Still, habit dies hard, and wekept track of time by days and weeks; but our work schedulcs bore no relation to them. Sometimes we worked the clock around, quitting only when forced to by sheer exhaustion.
+	We got a shipment from Moonbase, and in the middle of the refining process the mounting struts in the big me1ter mirror got out of alignment. Naturally Ty was out to work on it.
+	He was inspecting the system by flying around with a reaction pistol. The rule was that no one worked without a safety line; a man who drifted away from the Shack might or might not be rescued, and the rescue itself would Cost time and manpower we didn’t have.
+	Ty’s line kept pulling him up short of where he wanted to go, He gave the free end to Jill and told her to pay out a lot of slack. Then he made a jump from the mirror frame. He must have thought he’d use the reaction pistol to shove him off at an angle so that he’d cross over the bowl of the mirror, the other side.
+	The pistol ran out of gas. That left Ty floating straight toward the focus of the miner.
+	He shouted into his helmet radio, and Jill franticallyhauled in slack, trying to get a purchase on him. I made a quick calculation and knew I would ever reach him in time; if I tried I’d likely end up in the focus myself. Instead I took a dive across his back path. If I could grab his safety line, the jerk as I pulled up short ought to keep him out of the hottest area, and my reaction pistol would take us back to the edge.
+	I got the line all right, but it was slack. It had burned through. Ty went right through the hot point. When we recovered his body, metal parts on his suit had melted.
+
+	We scattered his ashes inside the sphere. McLeve’s navy prayer buok opened the burial service with the words “We brought nothing into this world, and it is certain that we shall take nothing out.” Afterwards I wondered how subtle McLeve had been in his choice of that passage.
+	We had built this world ourselves, with Ty leading us. We had brought everything into this world, even down to Ty’s final gift to us; the ashes which would grow grass in a place no human had ever thought to reach Until now.
+	For time next month we did without him; and it was as if we had lost half our men. McLeve was a good engineer if a better administrator, but he couldn’t go into the high gravity areas, and he couldn’t do active construction work. Still, it wasn’t engineering talent we lacked. It was Ty’s drive.
+	Jill and Dot and McLeve tried to make up for that. They were more committed to the project than ever.
+	Two hundred and forty thousand miles down, they were looking for a construction boss. They’d find one, we were sure. We were thebest, and we were paid like the best. There was never a problem with salaries. Salaries were negligible next to the other costs of building the Shack. But the personnel shuttles were delayed, and delayed again, and we were running out of necessities, and the US economy was slipping again.
+	We got the mirrors arrayed. Jill went heavily into agriculture, and the lunar soil bloomed, seeded with earthworms and bacteria from earthly soil. We smelted more of the rocky crust around the Shack and put it back as slag. We had plans for the metal we extracted, starting with a lab for growingmetal whiskers. There was already a whisker lab in near-Earth orbit, but its output was tiny. The Shack might survive if we could show even the beginnings of a profit-making enterprise.
+	Jill had another plan: mass production of expensive blologicals, enzymes and various starting organics for ethical drugs.
+	We had lots of plans. What we didn’t have was enough people to do it alL You can only work so many twenty-hour days. We began to make mistakes. Some were costly.
+	My error didn’t cost the Shack. Only myself. I like to think it was due to-Mtigue and nothing more.
+	I made a try at comforting the grieving widow, after a decent wait of three weeks.
+	When Ty was alive everyone flirtedwith Jill, She pretended not to notice. You’d have to be crude as well as rude before she’d react.
+	This time it was different. I may not have been very subtle, but I wasn’t crude; and she told me instantly to get the hell out of her cabin and leave her alone.
+	I went back to my refinery mirror and brooded.
+	Ninety years later I know better. Ninety years is too damned late. If I’d noticed nothing else, I should have known that nearly eighty unmarried men aboard would all be willing to comfort the grieving widow, and half of them were only too willing to use the subtle approach: “You’re all that keeps us working so hard.”
+	I wonder who tried before I did? It hardly matters, when my turn came, Jill’s reaction was automatic. Slap him down before it’s too late for him to back away. And when she slapped me down, I stayed slapped, more hurt than mad, but less than willing to tiy again.
+	I hadn’t stopped being in love with her. So I worked at being her friend again. It wasn’t easy. Jill was cold inside. When she talked to people it was about business, never herself.
+Her dedication to the Shack, and to all it stood for in her mind, was hardening, ossifying. And she spent a lot of time with Dot Hoffman and Admiral McLeve.
+	But the word came: another shuttle. Again there were no women, The Senator from Wisconson had found out how expensive it would be to get us home. Add fifty women and it would be half again as expensive. So no new personnel.
+	Still they couldn’t stop the company from sending up a new chief engineer, and we heard the-shuffle was on its way, with a load of seeds, liquid hydrogen, Vitamin pills, and Jack Halley.
+	I couldn’t believe it. Jack wasn’t the type.
+	To begin with, while the salary you could save in five years amounted to a good sum, enough to let you start a business and still have some income left, it wasn’t wealth. You couldn’t live the rest of your life in Rio on it; and I was pretty sure Jack’s goals hadn’t changed.
+	But there he was, the new boss. From the first day he arrived things started humming. It was the old Jack, brilliant, always at work, and always insisting everyone try to keep up with him although no one ever could. He worked our arses off, in two months he had us caught up on the time we lost after Ty was killed.
+	Things looked good. They looked damned good. With the mirrors mounted we could operate on sunlight, with spare power for other uses. Life from soil imported from Earth spread throughout the soil imported from the Moon; and earthly plants were in love with the chemicals in lunar soil. We planted strawberries, corn and beans together, we planted squashes and melons in low-gravity areas and watched them grow into jungles of thin vines covered With fruit.
+	The Smelter worked overtime, and we had moie than enough metals for the whisker lab and biological vats, if only a shuttle would bring us the pumps and electronics we needed, and if necessary we’d make pumps in the machine shops, and Jack had Dot working out time details of setting up integrated-cireult manufacture.
+	But the betterthings looked in space, the worse they looked on Earth.
+	One of the ways we were going to make space colonies pay for themselves was through electricity. We put out big arrays of solar cells, monstrous spiderwebs a kilometer long by half that wide, so large that they needed small engines dotted all over them just to keep them oriented properly toward the sun.
+	We made the solar cells ourselves; one of the reasons they needed me was to get out the rare metals from the lunar regotith and save them for the solar-cell factory. And it was working.
+	We had the structure and we were making the cells. Soon ónough we’d have enormous power~ megaWatts of power, enough to beam it down to Earth where it could .pay back some of the costs of building the system. The orbiting power stations cost a fortune to put up, but not much to maintain; they would be like dams, big front end costs but then nearly free power forever.
+	We were sure that would save us. How could the United States turn down free electricity?
+	It looked good until the Fromates blew up the desert antenna that we would have been beaming the power down to, and the lawyers got their reconstruction tied into legal knots that would probably take five years to untangle.
+	The Senator from Wisconsin continued his crusade. This time we got three Golden fleece awards. Down on Earth the company nominated him for membership in the Flat Earth Society. He gleefully accepted and cut our budget again.
+
+	We also had problems on board. Jack had started mean; it was obvious he had never wanted to come here in the first place. Now he turned mean as a rattlesnake. He worked us. If we could get the whisker lab finished ahead of time, at lower cost than planned, then maybe we could save the station yet; so he pushed and pushed again; and one day he pushed too hard.
+	It wasn’t a mutiny- It wasn’t even a strike. We all did a day’s work; but suddenly, without as far as I know any discussion among us. nobody would put in overtime. Ten hours a day, yes; ten hours and one minute, no.
+	Jill pleaded. The Admiral got coldly formal. Dot cried. Jack screamed.
+	We cut work to nine and a half hours.
+	And then it all changed. One day Jack Halfey was smiling a lot. He turned polite. He was getting his two or three hours sleep a night.
+	Dot described him. “Like Mrs. Fezziwig.” she said. ‘“One vast substantial smile.’ I hope she’s happy. I wonder why she did it? To save the Shack. She was trying to keep her voice cheerful, but-her look was bitter. Dot wasn’t naive; just terrified. I suppose that to her the only reason a woman would move in with a man would be to save some noble cause like the Shack.
+
+	As to Jill, she didn’t change much. The Shack was the first step in the conquest of the universe, and it was by God going to be finished and self-sufficient. Partly it was a memorial to Ty, I think; but she really believed in what she was doing, and it was infectious.
+	I could see how Jack could convince her that he shared her goal. To a great extent he did, although it was pure selfishness; his considerable reputation was riding on this project. But Jack never did anything half-heartedly. He drove himself at whatever be was doing.
+	What I couldn’t understand was why he was here at all. He must have known how thin were the chances of completing the Shack before he left Earth.
+	I had to know before it drove me nuts.
+
+	Jack didn’t drink much. When he did it was often a disaster, because he was the world’s cheapest drunk. So one night I plied him.
+	Night is generally relative, of course, but this-one was real: the Earth got between us and the sun. Since we were on the same orbit as the Moon, but sixty degrees ahead, that happened to us exactly as often as there are eclipses of the Moon on Earth; a rare occasion, one worth celebrating.
+	Of course we’d put-in a day’s work first, so the party didn’t last long, we were all too beat. Still it was a start, and when the formalities broke up and Jill. went off to look at the air system, I grabbed Jack and got him over to my quarters. We both collapsed in exhaustion.
+	I had brought a yeast culture with me from Canaveral. McLeve had warned me that liquor cost like diamonds up here; and a way to make my own alcohol seemed a good investment. And it was. By now I had vaccum distilled vodka made from fermented fruit bars and a mash of strawberries from the farm— they weren’t missed; the farm covered a quarter of the inner surface now. My concoction tasted better than it sounds, and it wasn’t hard to talk Jack into a drink, then another.
+	Presently he was trying to sing the verses to “The Green Hills of Earth.” A mellower man you never saw. I seized my chance.
+	“So you love the green hills of Earth so much, what are you doing here? Change your mind about Rio?”
+	Jack shook his head; the vibration ran down his arm and sloshed his drink. “Nope    Outside a hen cackled, and Jack collapsed in laughter. “Let me rest my eyes on the fleecy
+skies..."
+	Grimly I stuck to the subject. “I thought you were all set with that Tucson arcology.”
+	“Oh, I was. I was indeed. It was a beautiful setup. Lots of pay, and-” He stopped abruptly.
+	“And other opportunities?” I was beginning to see the light.
+	“Welll. . . yes. You have to see it the way I did. First, it was a great opportunity to make a name for myself. A city in a building! Residential and business and industry all in the same place, one building to house a quarter... of a million people. And it would have been beauliful. Corky. The plans were magnificent! I was in love with it. Then I got into it, and I saw what was really going on.
+	“Corky. everyone was stealing that place blind! The first week I went to the chief engineer to report shortages in deliveries and he just looked at me. ‘Stick to your own work, Halfey.’ says he. Chief engineer, the architects, construction bosses, even the catering crew-every one of them was knocking down twenty-five, fifty percent! They were selling the cement right off the boxcars and substituting sand. There wasn’t enough cement in that concrete to hold up the walls.”
+	“So you took your share.”
+	“Don’t get holy on me! Dammit. look at it my way. I was willing to play square, but they wouldn’t let me. The place was going to fall down. The weight of the first fifty thousand people would have done it. What I could do was make sure nobody got inside before it happened.” Jack Halfey chortled. ‘I’m a public benefactor. I am. I sold off the reinforcing rods. The inspectors couldn’t possibly ignore that.”
+	“Nothing else?” I asked.
+	“Welll, those rods were metal-whisker compote. Almost as strong as diamond, and almost as expensive. I didn’t need anything else. Rut I made sure they’d never open that place to the public. Then I stashed my ill-gotten gains and went underground and waited for something to happen.”.
+	“I never heard much about it. Of course I wouldn’t, up here.”
+	“Not many down there heard either. Hush hush while the FBI looked into it. The best buy I ever made in my life was a subscription to the Wall Sireet Journal. Just a paragraph about how the Racket Squad was investigating Mafia involvement in the Tucson arvology. That’s when things fell into place.”
+	I swung around to refill his glass, carefully. We use great big glasses, and never fill them more than half full. Otherwise they slosh all over the place in the lOW gravity. I had another myself. it was pretty good vodka. and if I felt it, Jack must be pickled blue. “You mean the building fell in?”
+	“No, no. I realized why there was so much graft.” Jack sounded aggrieved. “There was supposed to be graft. I wasn’t supposed to get in on it.”
+	"Aha."
+	“Aha you know it. I finished reading that article on a plane to Canaveral. The FBI couldn’t follow me to Rio, but the Mafia sure could. I’d heard there was a new opening for chief engineer for the Construction Shack, and all of a sudden the post looked very, very good.”
+	He chuckled. “Also, I hear that things are tightening up in the USA. Big crackdown on organized crime. Computer assisted. Income tax boys and Racket Squad working together. It shouldn’t be long before all the chiefs who want my arse are in jail. Then I can go back, cash my stash, and head for Rio.”
+	“Switzerland?”
+	“Oh no. Nothing so simple as that. I thought of something else. Say, I better get back to my bunk.” He staggered out before I could stop him. Fortunately it was walking distance from my place to his; if he’d had to fly, he’d probably have ended up roosting with the chickens.
+	“Bloody hell,” says I to myself
+Should I add that I had no intention of robbing Jack? I was just curious: what inflation-proof investment had he thought up? But I didn’t find out for a long time...
+
+	A month later the dollar collapsed. Inflation had been a fact of life for so long that it was the goal of every union and civil service organizer to get inflation written into their contractS, thereby increasing inflation. The govemment printed money faster to compensate: more inflation. One of those vicious spirals. Almost suddenly the dollar, was down the drain. There followed a full-scale taxpayer revolt.
+	The Administration got the message: they were spending too much money. And clearly that had to stop. The first things to go were all the projects that wouldn’t pay off during the current President’s term of office. Long term research was chopped out of existence. Welfare, on the other hand, was increased, and a comprehensive National Health Plan was put into effect, even though they had to pay the doctors and hospitals in promissory notes.
+	The Senator from Wisconsin didn’t even bother giving us his customary Golden Fleece award. Why insult the walking dead?
+	We met in our usual place, a cage-work not far from the north.pole. Admiral MeLeve was in the center, in zero gravity. The rest of us perched about the cage-work, looking like a scene from Hitchcock’s The Birds.
+	Dot had a different picture, from Aristophanes. “Somewhere, what with all these clouds and all this air, there must be a rare name, somewhere. . . How do you like Cloud-Cuckoo-
+Land?"
+	Putting on wings does things to people. Halfey had dyed his wings scarlet, marked with yellow triangles enclosing an H. Dot wore the plumage of an eagle, and I hadn’t believed it the fast time I saw it; it was an incredibly detailed, beautiful job. McLeve’s were the wings of a bat, and-I tell you he looked frightening, as evil as Dracula himself. Leon Briscoe, the chemist, had painted mathematical formulae all over his, in exquisite medieval calligraphy. Jill and Ty had worn the plumage of male and female Least Terns, and she still wore hers. There were no two sets of wings alike in that flock. We were ninety birds of mnety species, all gathered as if the ancient roles of predator and prey had been set aside for a larger cause. CloudCuckoo-Land;
+	A glum Cloud-Cuckoo-Land.
+	“It’s over.” McLeve said. “We’ve been given three months to phase out and go home. Us, Moonbase, the whole space operation. They’ll try to keep some of the near-Earth Operations going a while longer, but we’re to shut down.”
+	Nobody said anything at first. We’d been expecting it; those of us who’d had time to follow news from Earth. Now it was here,, and nobody was ready. I thought about it: back to high gravity again. Painful.
+	And Jill. Her dream was being shot døwn, Ty died for nothing. Then I remembered McLeve. He wasn’t going anywhere. Any gravity at all was a death sentence.
+	And I hated Jack Halfey for the grin he was hiding. There had been a long piece in the latest newscast about the roundup of the Mafia lords; grand juries working overtime,, and the District of Columbia jail filled, no bail to be granted. It was safe for Jack down there, and now he could go home early.
+	“They can’t do this to us!” Jill wailed. A leftover Fromate reflex, I guess. “We’ll—” Go on strike? Bomb something? She looked around at our faces, and when I followed the look I stopped with Dot Hoffman. The potato face was withered in anguish, the potato eyes were crying. What was there for Dot on Earth?
+	“What a downer,” she said.
+	I almost laughed out loud, the old word was so inadequate. Then McLeve spoke in rage. “Downers. Yes. Nine billion downers sitting on their fat arses while their children’s future slides into the muck. Downers is what they are.”
+	Now you know. McLcve the wordsmith invented that word, on that day.
+	My own feelings were mixed. Would the money stashed in Swiss francs be paid if we left early, even though we had to leave? Probably, and it was not a small amount; but how long would it last? There was no job waiting for me. . . but certainly I had the reputation I’d set out for. I shouldn’t have much trouble getting a job.
+	But I like to finish what I start. The Shack was that close to being self-sufficient. We had the solar power grids working. We even had the ion engines mounted all over the grid to keep it stable. We djdn~t have the microwave system to beam the power back to Earth.,, but it wouldn’t be that expensive to put in...except that Earth had no antennae to receive the power.
+They hadn’t even started reconstruction. The permit hearings were tied up in lawsuits.
+	No. The Shack was dead. And if our dollars were worthless, there were things that weren’t. Skilled labor couldn’t be worthless. I would get my francs, and some of my dollar salary had been put into gold. I wouldn’t be broke. And—the clincher— there were women on Earth.
+	McLeve let us talk a while. When the babble died down and he found a quiet lull, he said, very carefully, “Of course, we have a chance to keep the station going.”
+	Everyone talked at once. Jill’s voice came through loudest, “How?”
+	“The Shack was designed to be a self-sufficient environment,” McLeve said. “It’s not quite that yet, but what do we need?”
+	“Air.” someone shouted. “Water,” cried another.
+	I said, “Shielding. It would help to have enough mass to get us through a big solar flare. If they’re shutting down Moonbase we’ll never have it.”
+	Jill’s voice carried like a microphone. “Rocks? Is that all we need? Ice and rocks? We’d have both in the asteroid belt’.” It was a put-up job. She and McLeve must have rehearsed it.
+	I laughed. “The Belt is two hundred million miles away. We don’t have ships that will go that far, let alone cargo ships...” And then I saw what they had in mind.
+	“Only one ship,” MeLeve said. “The Shack itself. We can move it out into the belt.”
+	“How long?” Dot demanded.. Hope momentarily made her beautiful.
+	“Three years,” McLeve said. He looked thoughtful. “Well, not quite that long.”
+	"We can’t live three years,” I shouted. I turned to Jill, twsting idiot that I was then. “The air system can’t keep us alive that long, can it? Not enough chemicals—”
+	“But we can do it!” she shouted. “It won’t be easy, but the farm is growing now. We have enough plants to make up tbr the lack of chemical air purification. We can recycle everything. We’ve got the raw sunlight of space. Even out in the asteroids that will be enough. We can do it!”
+	“Can’t hurt to make a few plans,” McLeve said.
+	It couldn’t help either, thought I; but I couldn’t say it, not to Dot and Jill.
+
+
+	These four were the final architects of The Plan: Admiral McL.eve, Jill Plauger, Dot Hoffman, and Jack Halfey.
+	At first the most important was Dot. Moving something as large as the Shack, with inadequate engines, a house in space never designed as a ship; that was bad enough. Moving it farther than any manned ship, no matter the design, should have been impossible.
+	But behind that potato face was a brain tuned to mathematics. She could solve any abstract problem. She knew how to ask questions; and her rapport with computers was a thing to envy.
+	Personal problems stopped her cold. Because McLeve was one of the few men she could see as harmless, she could open up to him. He had told me sometime before we lost Ty, “Dot tried sex once and didn’t like it.” I think he regretted saying even that much. Secrets were sacred to him. But for whatever reason, Dot couldn’t relate to people; and that left all her energy for work.
+	Dot didn’t talk to women either, through fear or envy or some other reason I never knew. But she did talk to Jill. They were fanatical in the same way. It wasn’t hard to understand Dot’s enthusiasm for The Plan.
+	McLeve had no choices at all. Without the Shack he was a dead man.
+	Jack was in the Big Four because he was needed. Without his skills there would be no chance at all. So he was dragged into it, and we watched it happen.
+	The day McLeve suggested going to the asteroids, Jack Halfey was thoroughly amused, and showed his mirth to all. For the next week he was not amused by anything whatever.
+He was a walking temper tantrum. So was Jill. I expect he tried to convince her that with sufficient wealth, exile on Earth could be tolerable. Now he wasn’t sleeping, and we all suffered.
+
+	Of course our miseries, including Jack’s, were only ternporary. We were all going home. All of us.
+	Thus we followed the downer news closely, and thus was there a long line at the communications room. Everyone was trying to find an Earthside job. It hardly mattered. There was plenty of power for communications. It doesn’t take much juice to close down a colony.
+	We had no paper, so the news was flashed onto a TV for the edification of those waiting to use the transmitter. I was waiting for word from Inco: they had jobs at their new smelter in Guatemala. Not the world’s best location, but I was told it was a tropical paradise, and the quetzal was worth at least as much as the dollar.
+	I don’t know who Jack was expecting to hear from. He looked like a man with a permanent hangover, except that he wasn’t so cheerful.
+	The news, for a change, wasn’t all bad. Something for everyone. The United States had issued a new currency, called “marks” (it turns out there were marks in the US during revolutionary times); they were backed by miniscule amounts of gold.
+	Not everyone was poor. Technology proceeded apace. Texas instruments announced a new pocket computer, a million bits of memory and fully programmable, for twice what a calculator cost. Firestone Diamonds—which had been manufacturing flawless blue-white diamonds in a laboratory for the past year, and which actually was owned by a man named Firestone— had apparently swamped the engagement ring market, and was now making chandeliers. A diamond chandelier would cost half a year’s salary, of course, but that was expected to go down.
+	The “alleged Mafia chieftains” now held without bail awaiting trial numbered in the thousands. I was surprised: I hadn’t thought it would go that far. When the dollar went worthless, apparently Mafia bribe money went worthless too. Maybe I’m too cynical. Maybe there was an epidemic of righteous wrath in government.
+	Evidently someone thought so. because a bond issue was approved in California, and people were beginning to pay their taxes again.
+	Something for everyone. I thought the Mafia item would cheer Jack up, but he was sitting there staring at the screen as if he hadn’t seen a thing and didn’t give a damn anyway. My call was announced and I went in to talk to Inco. When I came out Jack had left, not even waiting for his own call. Lack of sleep can do terrible things to a man.
+	I wasn’t-surprised when Jack had a long talk with McLeve, nor when Jill moved hack in with him. Jack would promise anything, and Jill would believe anything favorable to her mad scheme.
+	The next day Jack’s smile was back, and ill thought it was a bit cynical, what could I do? Tell Jill? She wouldn’t have believed me anyway.
+
+	They unveiled The Plan a week later. I was invited to McLeve’s house to hear all about it..
+	Jack was there spouting enthusiasm. “Two problems,” he told us. “First, keeping us alive during the trip. That’s more Jill’s department, but what’s the problem? The Shack was designed to last centuries. Second problem is getting out there. We’ve got that figured out.”	I said, “The hell you do. This isn’t a spaceship, it’s just a habitat. Even if you had a big rocket motor to mount on the axis, you wouldn’t have fuel for it, and if you did, the Shack would break up under the thrust.” I hated him for what he was doing to Jill, and I wondered why McLeve wasn’t aware of it. Maybe he was. The Admiral never let anyone know what he thought.
+	“So we don’t mount a big rocket motor.” Jack said. “What we’ve got is just what we need: a lot of little motors on the solar panels. We use those and everything else we1iave. Scooters and tugs, the spare panel engines, and, last but not least, the Moon. We’re going to use the Moon for a gravity sling.”
+	He had it all diagrammed out in four colors. “We shove the Shack toward the Moon. if we aim just right, we’ll skim close to the lunar surface with everything firing. We’ll leave.
+the Moon with that velocity plus the Moon’s orbital velocity, and out we go.”
+	“How close?”
+	He looked to Dot. She pursed her lips. “We’ll clear the peaks by two -kilometers.”
+	“That’s close.”
+	“More than a mile,” Jack said. “The closer we come the faster we leave.”
+	“But you just don’t have the thrust!”
+	“Almost enough,” Jack said. "Now look. We keep the panel thrusters on full blast. That gives us about a quarter percent of a gravity, not nearly enough to break up the Shack, Corky.
+And we use the mirrors.” He poked buttons and another diagram swam onto McLeve’s drafting table. “See.”
+	It showed the Shack with the window mirrors opened all the way for maximum surface area. My smelter minor was hung out forward. Other mirrors had been added. “Sails! Light pressure adds more thrust. Not a lot, but enough to justify carrying their mass. We can get to the Belt.”
+	"You’re crazy,” I informed them.
+	“Probably,” McLeve muttered. “But from my viewpoint it looks good.”
+	“Sure. You’re dead anyway, no offense intended. We’re playing a game here, and it’s getting us nowhere.”
+	“I’m going.” Jill’s voice was very low and very convincing. It stined the hair on my neck.
+	“Me too,” Dot added. She glared at me. the enemy.
+	I made one more try. They’d had more time to think about it than I did, but the thrust figures were right there, scrawled in an upper corner of the dingram. “Now pay attention. You can’t possibly use the attitude jets on the solar panels for that long. They work by squirting dust through a magnetic field, throwing it backward so the reaction pushes you forward. Okay, you’ve got free solar power, and you can get the acceleratIon. But where can you possibly get enough dust?” I saw Jack’s guilty grin, and finished, “Holy shit!”
+	Jack nodded happily
+	“Why not?” Jill asked. “We won’t need solar flare shielding around Ceres. On the way we can keep what we do have between us and the Sun, while we grind up the surplus.”
+	They meant it. They were going to make dust out of the radiation shields and use that.-
+
+	In theory it would work. The panel engines didn’t care what was put through them; they merely charged the stuff up with electricity gathered from the solar cells and let the static charge provide the push. A rocket is nothing more than a way to squirt mass overboard; any mass will do. The faster you can throw mass away, the better your rocket.
+	At its simplest a rocket could be a man sitting in a bucket throwing rocks out behind him. Since a man can’t throw very fast that wouldn’t be a very good rocket, but it would work.
+	But you have to have rocks, and they were planning on using just about all of ours.
+	It was a one-way mission. They’d have to find an asteroid, and fast, when they got to the Belt; by the time they arrived they’d be grinding up structure, literally taking the Shack apart, and all that would have to be replaced.
+	It would have to be a special rock, one that had lots of metal, and also had ice. This wasn’t impossible, but it wasn’t any sure thing either. We knew from Pioneer probes that some of the asteroids had strata of water ice, and various organics as well; but we couldn’t tell which ones. We knew one more thing from the later probes, and The Plan was geared to take advantage of that.
+	The Skylark—newly named by McLeve, and I’ve never known why he called it that—would head for Ceres. There were at least three small hill-sized objects orbitting that biggest of the asteroids.
+	A big solar flare while they were out that far would probably kill the lot of them. Oh, they had a safety hole designed: a small area of-the Shack to huddle inside, crowded together like sardines, and if the flare didn’t last too long they’d be all right. Except that it would kill many of the plants needed for the air supply.
+	I didn’t think the air recycling system would last any three years either, but Jill insisted it was all right.
+	It didn’t matter. I wasn’t going, and neither was Jack; it was just something to keep Jill happy until the shuttle came.
+
+	There was more to The Plan. All the nonessential personnel would go to Moonbase, where there was a better chance. Solar flares weren’t dangerous to them. Moonbase was buried under twenty feet of lunar rock and dust. They had lots of mass. There a oxygen chemically bound in lunar rock, and if you have enough power and some hydrogen you can bake it out. They had power: big solar mirrors, not as big as ours, but big. They had rocks. The hydrogen recycles if it’s air you want, If you want water, the hydrogen has to stay in the water.
+	We figured they could hang on for five years.
+	Our problem was different. If Moonbase put all its effort into survival, they wouldn’t have the resources to keep sending us rocks and metal and hydrogen. Hydrogen is the most abundant element in the universe; but it’s rare an the Moon. Without hydrogen you don’t have water. Without water you don’t have life.
+	I had to admit things were close. We were down to a shuttle load a month from Earth; but we needed those. They brought hydrogen, vitamins. high-protein foods. We could grow crops; but that took water, and our recycling systems were nowhere near 100% efficient.
+	Now the hydrogen shipments had stopped. At a cost of fifty million dollars a flight before the dollar collapsed, the USA would soon stop sending us ships!
+	Another thing about those ships. They had stopped bringing us-replacement crew long ago. Jack was the last. Now they were taking -people home. If they stopped coining, we’d be marooned.
+	A few more years and we could be self-sufficient. A few more years and we could have colonists, people who never intended to go home, They were aboard now, some of them. Jill and Ty, before Ty was killed. Dot Hoffman was permanent. So was McLeve, of course. Of the seventy-five still aboard we’d lost a few to the shuttles—twenty-five or so, including all the married couples, thought of themselves as colonists.
+	The rest of us wanted to go home.
+	Canaveral gave us fifty days to wind up oUr affairs. The shuttles would come up empty but for the pilots, with a kind of sardine-can-with-seats fitted in the hold.
+	I could understand why McLeve kept working on The Plan. Earth would kill him. And Jill: Ty’s death had no meaning if the Shack wasn’t finished. Dot? Sure. She was valuable, here. But Would you believe that I worked myself stupid mounting mirrors and solar panel motors? It wasn’t just for something to do before the shuttle arrived, either. I had a nightmare living in my mind.
+	McLeve was counting on about twenty crew: the Big Four, and six of the eight married couples, and up to half a dozen additional men, all held by their faith in The Plan.
+	The history books have one thing right. The Plan was Jack Halfey’s. Sure, Jill and McLeve and Dot worked on it, but without him it couldn’t be brought off. Half of The Plan was no more than a series of contingency operations, half-finished schemes that relied on Halfey’s ingenuity to work. McLeve and Halfey were the only people aboard who really knew the Shack—knew all its parts and vulnerabilities, what might go wrong and how to fix it; and McLeve couldn’t do much physical work. He wouldn’t be outside working when something buckled under the stress.
+	And there would be stress. A hundredth of a gravity doesn’t sound heavy, but much of our solar panel area and all our mirrors were flimsy as tissue paper.
+	Without Halfey it wouldn’t, couldn’t work. When Halfey announced that he was going home on that final shuttle, the rest would quit too. They’d beg the downers for one more shuttle, and they’d get it, of course, and they’d hold the Shack until it came.
+	But McLeve couldn’t quit, and Dot wouldn’t, and I just couldn’t be sure about Jill. If Halfey told her be wasn’t really going, would she see reason? The son of a bitch was trading her life for a Couple of hours sleep. When Skylark broke from orbit, would she be aboard? She and Dot and the Admiral, all alone in that vast landscaped bubble with a growing horde of chickens, going out to the asteroids to die. The life support system might last a long time with only three humans to support: they might live for years.
+
+	He nodded. “Without Halfey it is a mad scheme. I wouldn’t sacrifice the others for my heart condition. But Halfey isn’t leaving. Corky. He’s with us all the way. I wish you’d give it a try too. We need you.”
+	“Not me.”
+	So I worked, When they finally died, it wouldn’t be because Cornelius Riggs bobbled a weld.
+	The first shuttle came and picked up all nonessential personnel. They’d land at Moonbase, which was the final staging area for taking everyone home. If The Plan went off as McLeve expected, many of them would be staying on the Moon, but they didn’t have to decide that yet.
+	I was classed as essential, though I’d made my intentions clear. ThePlan needed me: not so much on the trip out, but when they reached the Belt. They’d have to do a lot of mining and refining, assuming they could find the right rock to mine and refine.
+	I let them talk me into waiting for the last shuttle. I wouldn’t have stayed if I hadn~t known Halfey’s intentions, and I confess to a squinny feeling in my guts when I watched that shuttle go off without me.
+	The next one would be for keeps.
+
+	When you have a moral dilemma, get drunk. It’s not the world’s best rule, but it is an old one; the Persians used the technique in classical times. I tried it.
+	Presently I found myself at MeLeve’s home. He was alone.I invited myself in.
+	“Murdering bastard,” I said.
+	“How?”
+	“Jill. That crazy plan won’t work. Halfey isn’t even going. You know it and I know it. He’s putting Jill on so she won’t cut him off. And without him there’s not even a prayer.”
+	“Your second part’s true,” McLeve said. “But not the first. Halfey is going.”
+	“Why would he?”
+	McLeve smirked. “He’s going.”
+	“What happens if he doesn’t?” I demanded. “What then?”
+	“I stay,” McLeve said. “I’d rather die here than in a ship.”
+	“Alone?”
+
+	How was Halfey convincing them? Not Jill: she wanted to believe in him, But McLeve, and Dot—Dot had to know. She had to calculate the shuttle flight plan, and for that she had to know the masses, and the total payload mass for that shuttle had to equal all the personnel except McLeve but including the others.
+	Something didn’t make any sense.
+	I waited until I saw eagle wings and blue wool stockings fly away from the administration area, and went into her computer room. It took a while to bring up the system, but the files
+directory was self-explanatory. I tried to find the shuttle flight plan, but I couldn’t. What I got, through sheer fumbling, was the updated flight plan for the Skylark.
+	Even with my hangover I could see what she’d done: it was figured for thirty-one people, plus a mass that had to be the shuttle. Skylark would be carrying a captain’s gig...
+	The shuttle was coming in five days.
+	Halfey had to know that shuttle wouldn’t be taking anyone back. If he wasn’t doing anything about it, there was only one conclusion. He was going to the Belt. A mad scheme. It doomed all of us. Jill, myself, Halfey, myself— But if Halfey didn’t go, no one would. We’d all go home in that shuttle. Jill would be saved. So would I. There was only one conclusion to that. I had to kill Jack Halfey
+
+	How? I couldn’t just shoot him. There wasn’t anything to shoot him with. I thought of ways. Put a projectile into a reaction pistol. But what then? Space murder would delight the lawyers, and I might even get off; but I’d lose Jill forever, and without Halfey..
+	Gimmick his suit. He went outside regularly. Accidents happen. Ty wasn’t the only one whose ashes we’d scattered into the soil of the colony.
+	Stethoscope and wrench: stethoscope to listen outside the walls of Halfey’s bed chamber, a thoroughly frustrating and demeaning experience; but presently I knew they’d both be asleep for an hour or more.
+	It took ten minutes to disassemble Jack’s hose connector and substitute a new one I’d made up. My replacement looked just like the old one, but it wouldn’t hold much pressure.
+Defective part. Metal fatigue. I’d be the one they’d have examine the connector if there was any inquiry at all, And I had no obvious motive -for killing Jack; just the opposite, except for Jill and McLeve I was regarded as Jack’s only friend.
+	Once that was done I had only to wait.
+
+
+	The shuttle arrived empty. Halfey went outside, all right, but in a sealed cherry picker; he wasn’t exposed to vacuum for more than a few moments, and apparently I’d made my substitute just strong enough to hold.
+	They docked the shuttle, but not in the usual place, and they braced it in,
+	It was time for a mutiny. I wasn’t the only one being Shanghaied on this trip. I went looking for Halfey. First, though, I’d need a reaction pistol. And a projectile. A ball-point pen ought to do nicely. Any court in the world would call it self defense.
+	“I’m a public benefactor, I am,” I muttered to myself.
+	Jill’s quarters were near the store room. When I came with the pistol, she saw me: “Hi,” she said.
+	“Hi.” I started to go on:
+	"You never talk to me any more.”
+	“Let’s say I got your message.”
+	“That was a long time ago. I was upset. So were you. It’s different now..."
+	“Different. Sure.” I was bitter and I sounded it. “Different. You’ve got that lying bastard Halfey to console you, that’s how it’s different.” That hurt her, and I was glad of it.
+	“We need him, Corky. We all need him, and we always did. We wouldn’t have got much done without him.”
+	“True enough-”
+	“And he was driving all of you nuts, wasn’t he? Until I helped him sleep.”
+	“I thought you were in love with him.”
+	She looked sad. “I like him, but no, I’m not in love with him.” She was standing in the doorway of her quarters. “This isn’t going to work, is it? The Plan. Not enough of you will come. We can’t do it, can we.”
+	“No.” Might as well tell her the truth. “It never would have worked, and it won’t work now even if all of us aboard come along. Margin’s too thin, Jill. I wish it would, but no.’
+	“I suppose you’re right. but I’m going to try anyway.”
+	“You’ll kill yourself.”
+	She shrugged. “Why not? What’s left anyway?” She Went back into her room,
+	I followed. “You’ve got a lot to live for. Think of the baby fur seals you could save. And there’s always me.”
+	“You?”
+	“I’ve been in love with you since the first time I saw you.”
+	She shook her head sadly. “Poor Corky. And I treated you just like all the others, back then when—. I wish you’d stay with us.”
+	“I wish you’d come back to Earth with me, Or even Moonbase. We might make a go of Moonbase. Hang on until things change down there. New administration. Maybe they’ll want a space program, and Moonbase would be a good start. I’ll stay at Moonbase if you’ll come.”
+	“Will you?” She looked puzzled, and scared, and I wanted take and hold her. “Let’s talk about it. Want a drink?”
+	“No, thank you”
+	“I do.” She poured herself something. “Sure you won’t join me?”
+	“All right.”
+	She handed me something cold, full of shaved ice. It tasted like Tang. We began to talk, about life on Earth—or even on Moonbase. She mixed us more thinks, Tang powder and water from a pitcher and vodka and shaved ice. Presently I felt good. Damned good.
+	One thing led to another, and I was holding her, kissing her, whispering to her— She broke free and went over to close and lock her door. As she came back toward me she was unbuttoning the top of her blouse.
+	And I passed out.
+
+
+	When I woke I didn’t know. Now, ninety years later, I still don’t. For ninety years it has driven me nuts, and now I’ll never know.
+	All that’s certain is that I woke half dressed, alone in her bed, and her clothes were scattered on the deck. I had athundering hangover - and an urgent thirst. I drank from the water pitcher on her table.
+	It wasn’t water. It must have been my own 100 proof vodka. Next to it was a jar of Tang and a bowl that had held shaved ice—and a bottle holding more vodka. She’d been feeding me vodka and Tang and shaved ice.
+	No wonder I had a hangover worthy of being bronzed as a record.
+	I went outside. There was something wrong.
+	The streams weren’t running correctly. They stood at an angle. At first I thought it was me. Then they sloshed.
+	The Shack was under acceleration.
+	
+	There were a dozen others screaming for blood outside the operations building. One was a stranger—the shuttle pilot. The door was locked, and Halfey was talking through a loudspeaker.
+	“Too late,” he was saying. “We don’t have enough thrust to get back to the L-4 point. We’re headed for the Belt. and you might as well get used to the idea. We’re going.”
+	There was a cheer. Not everyone hated the idea. Eventually those who did understood: Halfey had drained the shuttle fuel and stored it somewhere. No escape that way.
+	No other shuttles in lunar orbit. Nothing closer than Canaveral, which was daysaway even if there were anything ready to launch. Nothing was going to match orbits with us.
+	We were headed for the Moon, and we’d whip around and go for the Belt, and that was as inevitable as the tides.
+	When we understood all that they unlocked the doors.
+
+An hour later the alarms sounded. “Outside. Suit up. Emergency outside!” McLeve’s voice announced. Those already in their suits went for the airlocks. I began half-heartedly putting on mine, in no hurry. I was sure I’d never get my swollen, pulsing head inside the helmet.
+Jack Halfey dashed past, suited and ready. He dove for the airlock.
+	Halfey. The indispensible man. With a defective connector for an air intake.
+	I fumbled with the fasteners. One of the construction people was nearby and I got his help. He couldn’t’ understand my frantic haste.
+	“Bastards kidnapped us,” he muttered. “Let them do the frigging work. Not me.”
+	I didn’t want to argue with him, I just wanted him to hurry.
+	A strut had given way, and a section of the solar panel was off center. It had to be straightened, and we couldn’t turn off the thrust while we did it. True, our total thrust was tiny, a quarter of a percent of a gravity, hardly enough, to notice, but we needed it all.
+	Because otherwise we’d go out toward the Belt but we wouldn’t get there, and by the time the Shack-Skylark, now- returned inevitably to Earth orbit there’d be no one alive aboard her.
+	I noticed all the work, but I didn’t help. Someone cursed me, but I went on, looking for Halfey.
+	I saw him.  I dove for him, neglecting safety lines, forgetting everything. I had to get to him before that connector went.
+	His suit blew open across the middle. As if the fabric had been weakened with, say, acid. Jack screamed and tried to hold himself together.
+	He had no safety line either. When he let go he came loose from the spiderweb. Skylark pulled away from him, slowly, two and a half centimeters per second; slow but inexorable.
+	I lit where he’d been, turned, and dove for him. I got him and used my reaction pistol to drive us toward the airlock.
+	I left it on too long. We were headed fast for the airlock entrance, too fast, we’d hit too hard. I tumbled about to get Jack across my back so that I’d be between him and the impact. I’d probably break a leg, but without Halfey I might as well have a broken neck and get it over with.
+	Leon Briscoe, our chemist, had the same idea. He got under us and braced, reaction, pistol flaring behind us. We hit in a menage a trois, with me as Lucky Pierre.
+	Leon cracked an ankle. I ignored him as I threw Halfey into the airlock and slammed it shut, hit the recycle switch. Air hissed in.
+	Jack had a nosebleed, and his cough sounded bad; but he was breathing. He’d been in vacuum about forty seconds. Fortunately the decompression hadn’t been totally explosive. The intake line to his suit had fractured a half second before the fabric blew..
+
+
+	The Moon grew in the scopes. Grew and kept growing, until it wasn’t a sphere but a circle, and still it grew. There were mountains dead ahead.
+	"How close?", I demanded. 
+	Dot had her eyes glued to a radar scope. “Not too close. About a kilometer”
+	“A kilometer!” One thousand meters. “You said two, before."
+	“So I forgot the shuttle pilot.” She continued to stare at the scope, then her fingers bashed at the console keyboard. “Make that 800 meters,” she said absently
+	I was past saying anything. I watched the Moon grow and grow. Terror banished the last of my hangover, amazing what adrenalin in massive doses can do. Jill looked worse than I did. And I didn’t know. Were we lovers?
+	“Thirty seconds to periastron,” Dot said.
+	“How close?” McLeve asked.
+	“Five hundred meters. Make that four-fifty”
+	“Good,” McLeve muttered. “Closer the better.”
+	He was right; the nearer we came to the Moon. the more slingshot velocity we’d pick up, and the faster we’d get Co the Belt.
+	“Periastron,” Dot announced. “Closest approach, four twenty-three and a fraction.” She looked up in satisfaction. Potato eyes smiled. “We’re on our way”
+
+
+	On Earth we were heroes. We’d captured the downers’ imaginations. Intrepid explorers. Before we were out of range, we got a number of offers for book rights, should we happen to survive.
+	There were even noises about hydrogen shipments to the Moon. Of course there was nothing they could do for us. There weren’t any ships designed for a three-year trek.
+	Certainly Skylark wasn’t. But we were trying it.
+	There were solar flares. We all huddled around McLeve’s house, with as much of our livestock as we could catch stuffed into his bedroom. It took weeks to clean it out properly afterward.. We had to re-seed blighted areas and weed out mutated plants after each flare. More of our recycled air was coming from the algae tanks now.
+	In a time of the quiet sun we swarmed outside and moved all of the mirrors. The sun was too far away now, and the grass was turning brown, until we doubled the sunlight flooding through the windows.
+	But it seemed we’d reach Ceres. Already our telescopes showed five boulders in orbit around that largest of the asteroids. We’d look at them all, but we wanted the smallest one we could find: the least dauntifig challenge. If it didn’t have ice somewhere in irs makeup, the next one would, or the next.
+	And then we’d all be working like sled dogs, for our lives.
+	
+	I was circling round the outside of Skylark, not working, just observing: looking for points with some stnictural strength. places where I could put stress when the real work began. Win or lose, with or without a cargo, we would have to get home a tot faster than we came. The life support system wouldn’t hold up forever. Something would give out. Vitamins, water, something in the soil or the algae tanks. Something.
+	Our idea was to build a mass driver, a miniature of the machine that had been throwing rocks at us from the Moon. If we found copper in that rock abead—a pinpoint to the naked eye now, near the tiny battered disk of Ceres—we could make the kilometers of copper wire we’d need. If not, iron would do. We had power from the sun, and dust from the rocks around Ceres, and we’d send that dust down the mass driver at rocket exhaust speeds. Home in ten months if we found copper.
+	I went back inside.
+	The air had an odd smell when I took off my helmet. We were used to it; we never noticed now unless we’d been breathing tanked air. I made a mental note: mention it to Jill. It was
+getting stronger.
+	I had only the helmet off when Jean and Kathy Gaynor came to drag me out. I was clumsy in my pressure suit, and they thought that was hilarious. They-danced me around and around, pulled me out into the grass, and began undressing me with the help of a dozen others.
+	It looked like I had missed half of a great party. What the hell, Ceres was still a week away. They took my pressure suit off and scattered the components, and I didn’t fight. I was
+dizzy and had the giggles. They kept going. Presently I was stark naked and grabbing for Kathy, who took to the air before I realised she had wings. I came down in a stream and surfaced
+still giggling.
+	Jack and Jill were on their backs in the grass, watching the fleecy white hens - and turning occasionally to avoid chicken splat. I liked seeing Jill so relaxed for once. She waved, and I bounced over and somersaulted onto my back next to them.
+	A pair of winged people were way up near the axis, flapping among the chickens, scaring them into panic. It was like looking into Heaven, as you find it painted on the ceilings of some of the European churches. I couldn’t tell who they were.
+	“Wealth comes in spirals too,” Jill was saying in a dreamy voice. I don’t think she’d noticed I wasn’t wearing clothes. “We’ll build bigger ships with the metal we bring home. Next trip we’ll bring back the whole asteroid. One day the downers will be getting all their metal from us. And their whisker compotes, and drugs, and magnets, and, and free-fall alloys. Dare I say it? We’ll own the world!”
+	I said, “Yeah.” There were puffball chickens drifting down the sky, as if they’d forgotten how to fly
+	“There won’t be anything we can’t do. Corky, can you see a mass driver wrapped all around the Moon? For launching starships. The ships will go round and round. Well put the mag—mag, netic levitation plates overhead, to-hold the ships down after they’re going too fast to stay down.”
+	Halfey said, “What about a hotel on Titan? Excursions into Saturn’s rings. No downers allowed.”
+	“We’ll spend our second honeymoon there,” said Jill.
+	“Yeah,” I said, before I caught myself.
+	Halley laughed like hell. “No, no, I want to build it!”
+	I was feeling drunk and I hadn’t had a drink. Contact high, they call it. I watched those two at the axis as they came together in a tangle of wings, clung together. Objects floated around them, and presently began to spiral outward, fluttering and tumbling. I recognized a pair of man’s pants.
+	It made me feel as horny as hell. Two hundred million miles away there was a planet with three billion adult women. Out of that number there must be millions who’d take an astronaut hero to their beds. Especially after I published my best-selling memoirs. I’d never be able to have them all, but it was certainly worth a try. All I had to do was go home.
+	Hah. And Thomas Wolfe thought he couldn’t go home again!
+	A shoe smacked into a nearby roof, and the whole house bonged. We laughed hysterically. Something else hit almost beside my head: a hen lay on her back in the wheat, stunned and puzzled. The spiral of clothing was dropping away from what now seemed a single creature with four wings. A skinny blue snake wriggled out of the sky and touched down. I held it up, a tangle of blue wool. “My God!” I cried, “it’s Dot!”
+	Jill rolled over and stared. Jack was kicking his heels in the grass, helpless with laughter. I shook my head; I was still dizzy. “What have you all been drinking? Not that Tang mixture again!”
+	Jill said, “Drinking?”
+	“Sure, the whole colony’s drunk as lords,” I said. “Hey. . . black wings. .. is that MeLeve up there?”
+	Jill leapt to her feet. “Oh my God,” she screamed. “The air!”
+	Jack bounded up and grabbed her arm. “What’s happened?”
+	She tried to pull away. “Let me go! It’s the air system. It’s putting out alcohols. Not just ethanol, either. We’re all drunk and hypoxic. Let me go!”
+	“One moment.” Jack was fighting it and losing. In a niomerit he’d collapse in silliness again. “You knew it was going to happen,” be said. His voice was fuil of accusation.
+	“Yes,” Jill shouted. “Now will you let me go?”
+	“How did you know?”
+	“I knew before we started,” Jill said. “Recycling isn’t efficient enough. We need fresh water. Tons of fresh water.”
+	"If there’s no ice on that rock ahead—”
+	“Then we probably won’t get to another rock,” Jill said, “Now- will you let me go work on the system?”
+	“Get out of here, you bitch,” Jack yelled. He pushed her away and fell on his face.
+	It was scary. But there was also the alcohol. Fear and anger and ethanol and higher ketones and God knows what else fought it out in my brain. Fear lost. “She’s kept it going with Kleenex and bubble gum,” I shouted. “And you believed her. When she told you it’d last
+three years. You believed.” I whooped at the joke. “Oh, shut up,” Jack shouted.
+	“We’ve had it, right?’ I asked. “So tell me something. Why did you do it? I was sure you were putting Jill on. I know you intended to go with the shuttle. So why?” “Chandeliers,” Jack said.
+	“Chandeliers?”
+	“You were there. Firestone Gems will sell you flawless blue-whites. A chandelier of them for the price of half a year’s salary.”
+	“And—”
+	“What the fuck do you think I did with my stash?” Jack screamed.
+	Stash. His ill gotten gains from the Mafia. Stashed as blue-white diamonds
+	Funny. Fun-nee. So why wasn’t I laughing?
+	Because the bastard had kidnapped me, that’s why. When he found his stash was worthless and he wasn’t rich, and he’d probably face a jail term he couldn’t bribe his way out of, he’d run as far away as a man could go. And taken me with him.
+	I craw led over to my doorway. My suit lay there in a sprawl. I fumbled through it to the equipment belt.
+	“What are you doing?” Halfey yelled.
+	“You’ll see.” I found the reaction pistol. I went through my pockets, carefully, until 1 found a ballpoint pen.
+	“Hey! No!” Jack yelled.
+	“I’m a public benefactor, I am,” I told him. I took aim and fired. He tumbled backwards.
+	There are always people who want to revise history. No hero is so great that someone won’t take a shot at hint. Not even Jack Halfey.
+	Fortunately I missed.
+

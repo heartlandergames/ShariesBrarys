@@ -1,0 +1,544 @@
+The Planck Dive by Greg Egan
+	
+
+This story first appeared in Asimov’s Science Fiction, February 1998. Nominated for Best Novelette.
+
+ 
+	
+	
+
+Gisela was contemplating the advantages of being crushed–almost certainly to death, albeit as slowly as possible–when the messenger appeared in her homescape. She noted its presence but instructed it to wait, a sleek golden courier with winged sandals stretching out a hand impatiently, frozen in mid-stride twenty delta away.
+
+The scape was currently an expanse of yellow dunes beneath a pale blue sky, neither too stark nor too distracting. Gisela, reclining on the cool sand, was intent on a giant, scruffy triangle hovering at an incline over the dunes, each edge resembling a loose bundle of straw. The triangle was a collection of Feynman diagrams, showing just a few of the many ways a particle could move between three events in spacetime. A quantum particle could not be pinned down to any one path, but it could be treated as a sum of localized components, each following a different trajectory and taking part in a different set of interactions along the way.
+
+In "empty" spacetime, interactions with virtual particles caused each component’s phase to rotate constantly, like the hand of a clock. But the time measured by any kind of clock traveling between two events in flat spacetime was greatest when the route taken was a straight line–any detours caused time dilation, shortening the trip–and so a plot of phase shift versus detour size also reached its peak for a straight line. Since this peak was smooth and flat, a group of nearly straight paths clustered around it all had similar phase shifts, and these paths allowed many more components to arrive in phase with each other, reinforcing each other, than any equivalent group on the slopes. Three straight lines, glowing red through the center of each "bundle of straw," illustrated the result: the classical paths, the paths of highest probability, were straight lines.
+
+In the presence of matter, all the same processes became slightly skewed. Gisela added a couple of nanograms of lead to the model–a few trillion atoms, their world lines running vertically through the center of the triangle, sprouting their own thicket of virtual particles. Atoms were neutral in charge and color, but their individual electrons and quarks still scattered virtual photons and gluons. Every kind of matter interfered with some part of the virtual swarm, and the initial disturbance spread out through spacetime by scattering virtual particles itself, rapidly obliterating any difference between the effect of a ton of rock or a ton of neutrinos, growing weaker with distance according to a roughly inverse square law. With the rain of virtual particles–and the phase shifts they created–varying from place to place, the paths of highest probability ceased obeying the geometry of flat spacetime. The luminous red triangle of most-probable trajectories was now visibly curved.
+
+The key idea dated back to Sakharov: gravity was nothing but the residue of the imperfect cancellation of other forces; squeeze the quantum vacuum hard enough and Einstein’s equations fell out. But since Einstein, every theory of gravity was also a theory of time. Relativity demanded that a free-falling particle’s rotating phase agree with every other clock that traveled the same path, and once gravitational time dilation was linked to changes in virtual particle density, every measure of time–from the half-life of a radioisotope’s decay (stimulated by vacuum fluctuations) to the vibrational modes of a sliver of quartz (ultimately due to the same phase effects as those giving rise to classical paths)–could be reinterpreted as a count of interactions with virtual particles.
+
+It was this line of reasoning that had led Kumar–a century after Sakharov, building on work by Penrose, Smolin, and Rovelli–to devise a model of spacetime as a quantum sum of every possible network of particle world lines, with classical "time" arising from the number of intersections along a given strand of the net. This model had been an unqualified success, surviving theoretical scrutiny and experimental tests for centuries. But it had never been validated at the smallest length scales, accessible only at absurdly high energies, and it made no attempt to explain the basic structure of the nets, or the rules that governed them. Gisela wanted to know where those details came from. She wanted to understand the universe at its deepest level, to touch the beauty and simplicity that lay beneath it all.
+
+That was why she was taking the Planck Dive.
+
+The messenger caught her eye again. It was radiating tags indicating that it represented Cartan’s mayor: non-sentient software that dealt with the maintenance of good relations with other polises, observing formal niceties and smoothing away minor points of conflict in those cases where no real citizen-to-citizen connections existed. Since Cartan had been in orbit around Chandrasekhar, ninety-seven light years from Earth, for almost three centuries–and was currently even further from all the other spacefaring polises–Gisela was at a loss to imagine what urgent diplomatic tasks the mayor could be engaged in, let alone why it would want to consult her.
+
+She sent the messenger an activation tag. Deferring to the scape’s aesthetic of continuity, it sprinted across the dunes, coming to a halt in front of her in a cloud of fine dust. "We’re in the process of receiving two visitors from Earth."
+
+Gisela was astonished. "Earth? Which polis?"
+
+"Athena. The first one has just arrived; the second will be in transit for another ninety minutes."
+
+Gisela had never heard of Athena, but ninety minutes per person sounded ominous. Everything meaningful about an individual citizen could be packed into less than an exabyte, and sent as a gamma-ray burst a few milliseconds long. If you wanted to simulate an entire flesher body–cell by cell, redundant viscera and all–that was a harmless enough eccentricity, but lugging the microscopic details of your "very own" small intestine ninety-seven light-years was just being precious.
+
+"What do you know about Athena? In brief."
+
+"It was founded in 2312, with a charter expressing the goal of ‘regaining the lost flesher virtues.’ In public fora, its citizens have shown little interest in exopolitan reality–other than flesher history and artforms–but they do participate in some contemporary interpolis cultural activities."
+
+"So why have these two come here?" Gisela laughed. "If they’re refugees from boredom, surely they could have sought asylum a little closer to home?"
+
+The mayor took her literally. "They haven’t adopted Cartan citizenship; they’ve entered the polis with only visitor privileges. In their transmission preamble they stated that their purpose in coming was to witness the Planck Dive."
+
+"Witness–not take part in?"
+
+"That’s what they said."
+
+They could have witnessed as much from home as any non-participant here in Cartan. The Dive team had been broadcasting everything–studies, schematics, simulations, technical arguments, metaphysical debates–from the moment the idea had coalesced out of little more than jokes and thought experiments, a few years after they’d gone into orbit around the black hole. But at least Gisela now knew why the mayor had picked on her; she’d volunteered to respond to any requests for information about the Dive that couldn’t be answered automatically from public sources. No one seemed to have found their reports to be lacking a single worthwhile detail, though, until now.
+
+"So the first one’s suspended?"
+
+"No. She woke as soon as she arrived."
+
+That seemed even stranger than their excess baggage. If you were traveling with someone, why not delay activation until your companion caught up? Or better yet, package yourselves as interleaved bits?
+
+"But she’s still in the arrival lounge?"
+
+"Yes."
+
+Gisela hesitated. "Shouldn’t I wait until the other one’s all here? So I can greet them together?"
+
+"No." The mayor seemed confident on this point. Gisela wished interpolis protocol allowed non-sentient software to play host; she felt woefully ill-prepared for the role herself. But if she started consulting people, seeking advice, and looking into Athena’s culture in depth, the visitors would probably have toured Cartan and gone home before she was ready for them.
+
+She steeled herself, and jumped.
+
+ 
+
+The last person who’d whimsically redesigned the arrival lounge had made it a wooden pier surrounded by gray, windswept ocean. The first of the two visitors was still standing patiently at the end of the pier, which was just as well; it was unbounded in the other direction, and walking a few kilodelta to no avail might have been a bit dispiriting. Her fellow traveler, still in transit, was represented by a motionless placeholder. Both icons were highly anatomical-realist, clothed but clearly male and female, the unfrozen female much younger-looking. Gisela’s own icon was more stylized, and her surface, whether "skin" or "clothing"–either could gain a tactile sense if she wished–was textured with diffuse reflection rules not quite matching the optical properties of any real substance.
+
+"Welcome to Cartan. I’m Gisela." She stretched out her hand, and the visitor stepped forward and shook it–though it was possible that she perceived and executed an entirely different act, cross-translated through gestural interlingua.
+
+"I’m Cordelia. This is my father, Prospero. We’ve come all the way from Earth." She seemed slightly dazed, a response Gisela found entirely reasonable. Back in Athena, whatever elaborate metaphoric action they’d used to instruct the communications software to halt them, append suitable explanatory headers and checksums, then turn the whole package bit-by-bit into a stream of modulated gamma rays, it could never have fully prepared them for the fact that in a subjective instant they’d be stepping ninety-seven years into the future, and ninety-seven light-years from home.
+
+"You’re here to observe the Planck Dive?" Gisela chose to betray no hint of puzzlement; it would have been pointlessly cruel to drive home the fact that they could have seen everything from Athena. Even if you fetishized realtime data over lightspeed transmissions, it could hardly be worth slipping one-hundred-and-ninety-four years out of synch with your fellow citizens.
+
+Cordelia nodded shyly, and glanced at the statue beside her. "My father, really . . ."
+
+Meaning what? It was all his idea? Gisela smiled encouragingly, hoping for clarification, but none was forthcoming. She’d been wondering why a Prospero had named his daughter Cordelia, but now it struck her as only prudent–if you had to succumb to a Shakespearean names fad at all–not to put anyone from the same play together in one family.
+
+"Would you like to look around? While you’re waiting for him?"
+
+Cordelia stared at her feet, as if the question was profoundly embarrassing.
+
+"It’s up to you." Gisela laughed. "I have no idea what constitutes the polite treatment of half-delivered relatives." It was unlikely that Cordelia did, either; citizens of Athena clearly didn’t make a habit of crossing interstellar distances, and the connections on Earth all had so much bandwidth that the issue would never arise. "But if it was me in transit, I wouldn’t mind at all."
+
+Cordelia hesitated. "Could I see the black hole, please?"
+
+"Of course." Chandrasekhar possessed no blazing accretion disk–it was six billion years old, and had long ago swept the region clean of gas and dust–but it certainly left the imprint of its presence on the ordinary starlight around it. "I’ll give you the short tour, and we’ll be back long before your father’s awake." Gisela examined the bearded icon; with his gaze fixed on the horizon and his arms at his sides, he appeared to be on the verge of bursting into song. "Assuming he’s not running on partial data already. I could have sworn I saw those eyes move."
+
+Cordelia smiled slightly, then looked up and said solemnly, "That’s not how we were packaged."
+
+Gisela sent her an address tag. "Then he’ll be none the wiser. Follow me."
+
+ 
+
+They stood on a circular platform in empty space. Gisela had inflected the scape’s address to give the platform "artificial gravity"–a uniform one gee, regardless of their motion–and a transparent dome full of air at standard temperature and pressure. Presumably all Athena citizens were set up to ignore any scape parameters that might cause them discomfort, but it still seemed like a good idea to err on the side of caution. The platform itself was a compromise, five delta wide–offering some protection from vertigo, but small enough to let its occupants see some forty degrees below "horizontal."
+
+Gisela pointed. "There it is: Chandrasekhar. Twelve solar masses. Seventeen thousand kilometers away. It might take you a moment to spot it; it looks about the same as the new moon from Earth." She’d chosen their coordinates and velocity carefully; as she spoke, a bright star split in two, then flared for a moment into a small, perfect ring as it passed directly behind the hole. "Apart from gravitational lensing, of course."
+
+Cordelia smiled, obviously delighted. "Is this a real view?"
+
+"Partly. It’s based on all the images we’ve received so far from a whole swarm of probes–but there are still viewpoints that have never been covered, and need to be interpolated. That includes the fact that we’re almost certainly moving with a different velocity than any probe that passed through the same location–so we’re seeing things differently, with different Doppler shifts and aberration."
+
+Cordelia absorbed this with no sign of disappointment. "Can we go closer?"
+
+"As close as you like."
+
+Gisela sent control tags to the platform, and they spiraled in. For a while it looked as if there’d be nothing more to see; the featureless black disk ahead of them grew steadily larger, but it clearly wasn’t going to blossom with any kind of detail. Gradually, though, a congested halo of lensed images began to form around it, and you didn’t need the flash of an Einstein ring to see that light was behaving strangely.
+
+"How far away are we now?"
+
+"About thirty-four M." Cordelia looked uncertain. Gisela added, "Six hundred kilometers–but if you convert mass into distance in the natural way, that’s thirty-four times Chandrasekhar’s mass. It’s a useful convention; if a hole has no charge or angular momentum, its mass sets the scale for all the geometry: the event horizon is always at two M, light forms circular orbits at three M, and so on." She conjured up a spacetime map of the region outside the hole, and instructed the scape to record the platform’s world line on it. "Actual distances traveled depend on the path you take, but if you think of the hole as being surrounded by spherical shells on which the tidal force is constant–something tangible you can measure on the spot–you can give them each a radius of curvature without caring about the details of how you might travel all the way to their center." With one spatial dimension omitted to make room for time, the shells became circles, and their histories on the map were shown as concentric translucent cylinders.
+
+As the disk itself grew, the distortion around it spread faster. By ten M, Chandrasekhar was less than sixty degrees wide, but even constellations in the opposite half of the sky were visibly crowded together, as incoming light rays were bent into more radial paths. The gravitational blue shift, uniform across the sky, was strong enough now to give the stars a savage glint–not so much icy, as blue-hot. On the map, the light cones dotted along their world line–structures like stylized conical hour-glasses, made up of all the light rays passing through a given point at a given moment–were beginning to tilt toward the hole. Light cones marked the boundaries of physically possible motion; to cross your own light cone would be to outrace light.
+
+Gisela created a pair of binoculars and offered them to Cordelia. "Try looking at the halo."
+
+Cordelia obliged her. "Ah! Where did all those stars come from?"
+
+"Lensing lets you see the stars behind the hole, but it doesn’t stop there. Light that grazes the three-M shell orbits part-way around the hole before flying off in a new direction–and there’s no limit to how far it can swing around, if it grazes the shell close enough." On the map, Gisela sketched half a dozen light rays approaching the hole from various angles; after wrapping themselves in barber’s-pole helices at slightly different distances from the three-M cylinder, they all headed off in almost the same direction. "If you look into the light that escapes from those orbits, you see an image of the whole sky, compressed into a narrow ring. And at the inner edge of that ring, there’s a smaller ring, and so on–each made up of light that’s orbited the hole one more time."
+
+Cordelia pondered this for a moment. "But it can’t go on forever, can it? Won’t diffraction effects blur the pattern, eventually?"
+
+Gisela nodded, hiding her surprise. "Yeah. But I can’t show you that here. This scape doesn’t run to that level of detail!"
+
+They paused at the three-M shell itself. The sky here was perfectly bisected: one hemisphere in absolute darkness, the other packed with vivid blue stars. Along the border, the halo arched over the dome like an impossibly geometricized Milky Way. Shortly after Cartan’s arrival, Gisela had created a homage to Escher based on this view, tiling the half-sky with interlocking constellations that repeated at the edge in ever-smaller copies. With the binoculars on 1000 X, they could see a kind of silhouette of the platform itself "in the distance": a band of darkness blocking a tiny part of the halo in every direction.
+
+Then they continued toward the event horizon–oblivious to both tidal forces and the thrust they would have needed to maintain such a leisurely pace in reality.
+
+The stars were now all brightest at ultraviolet frequencies, but Gisela had arranged for the dome to filter out everything but light from the flesher visible spectrum, in case Cordelia’s simulated skin took descriptions of radiation too literally. As the entire erstwhile celestial sphere shrank to a small disk, Chandrasekhar seemed to wrap itself around them–and this optical illusion had teeth. If they’d fired off a beam of light away from the hole, but failed to aim it at that tiny blue window, it would have bent right around like the path of a tossed rock and dived back into the hole. No material object could do better; the choice of escape routes was growing narrower. Gisela felt a frisson of claustrophobia; soon she’d be doing this for real.
+
+They paused again to hover–implausibly–just above the horizon, with the only illumination a pin-prick of heavily blue-shifted radio waves behind them. On the map, their future light cone led almost entirely into the hole, with just the tiniest sliver protruding from the two-M cylinder. Gisela said, "Shall we go through?"
+
+Cordelia’s face was etched in violet. "How?"
+
+"Pure simulation. As authentic as possible . . . but not so authentic that we’ll be trapped, I promise."
+
+Cordelia spread her arms, closed her eyes, and mimed falling backward into the hole. Gisela instructed the platform to cross the horizon.
+
+The speck of sky blinked out, then began to expand again, rapidly. Gisela was slowing down time a millionfold; in reality they would have reached the singularity in a fraction of a millisecond.
+
+Cordelia said, "Can we stop here?"
+
+"You mean freeze time?"
+
+"No, just hover."
+
+"We’re doing that already. We’re not moving." Gisela suspended the scape’s evolution. "I’ve halted time; I think that’s what you wanted."
+
+Cordelia seemed about to dispute this, but then she gestured at the now-frozen circle of stars. "Outside, the blue shift was the same right across the sky . . . but now the stars at the edge are much bluer. I don’t understand."
+
+Gisela said, "In a way it’s nothing new; if we’d let ourselves free-fall toward the hole, we would have been moving fast enough to see a whole range of Doppler shifts superimposed on the gravitational blue shift, long before we crossed the horizon. You know the starbow effect?"
+
+"Yes." Cordelia examined the sky again, and Gisela could almost see her testing the explanation, imagining how a blue-shifted starbow should look. "But that only makes sense if we’re moving–and you said we weren’t."
+
+"We’re not, by one perfectly good definition. But it’s not the definition that applied outside." Gisela highlighted a vertical section of their world line, where they’d hovered on the three-M shell. "Outside the event horizon–given a powerful enough engine–you can always stay fixed on a shell of constant tidal force. So it makes sense to choose that as a definition of being ‘motionless’–making time on this map strictly vertical. But inside the hole, that becomes completely incompatible with experience; your light cone tilts so far that your world line must cut through the shells. And the simplest new definition of being ‘motionless’ is to burrow straight through the shells–the complete opposite of trying to cling to them–and to make ‘map time’ strictly horizontal, pointing toward the center of the hole." She highlighted a section of their now-horizontal world line.
+
+Cordelia’s expression of puzzlement began to give way to astonishment. "So when the light cones tip over far enough . . . the definitions of ‘space’ and ‘time’ have to tip with them?"
+
+"Yes! The center of the hole lies in our future, now. We won’t hit the singularity face-first, we’ll hit it future-first–just like hitting the Big Crunch. And the direction on this platform that used to point toward the singularity is now facing ‘down’ on the map–into what seems from the outside to be the hole’s past, but is really a vast stretch of space. There are billions of light-years laid out in front of us–the entire history of the hole’s interior, converted into space–and it’s expanding as we approach the singularity. The only catch is, elbow room and head room are in short supply. Not to mention time."
+
+Cordelia stared at the map, entranced. "So the inside of the hole isn’t a sphere at all? It’s a spherical shell in two directions, with the shell’s history converted into space as the third . . . making the whole thing the surface of a hypercylinder? A hypercylinder that’s increasing in length, while its radius shrinks." Suddenly her face lit up. "And the blue shift is like the blue shift when the universe starts contracting?" She turned to the frozen sky. "Except this space is only shrinking in two directions–so the more the angle of the starlight favors those directions, the more it’s blue-shifted?"
+
+"That’s right." Gisela was no longer surprised by Cordelia’s rapid uptake; the mystery was how she could have failed to learn everything there was to know about black holes long ago. With unfettered access to a half-decent library and rudimentary tutoring software, she would have filled in the gaps in no time. But if her father had dragged her all the way to Cartan just to witness the Planck Dive, how could he have stood by and allowed Athena’s culture to impede her education? It made no sense.
+
+Cordelia raised the binoculars and looked sideways, around the hole. "Why can’t I see us?"
+
+"Good question." Gisela drew a light ray on the map, aimed sideways, leaving the platform just after they’d crossed the horizon. "At the three-M shell, a ray like this would have followed a helix in spacetime, coming back to our world line after one revolution. But here, the helix has been flipped over and squeezed into a spiral–and at best, it only has time to travel halfway around the hole before it hits the singularity. None of the light we’ve emitted since crossing the horizon can make it back to us.
+
+"That’s assuming a perfectly symmetrical Schwarzchild black hole, which is what we’re simulating. And an ancient hole like Chandrasekhar probably has settled down to a fair approximation of the Schwarzchild geometry. But close to the singularity, even infalling starlight would be blue-shifted enough to disrupt it, and anything more massive–like us, if we really were here–would cause chaotic changes even sooner." She instructed the scape to switch to Belinsky-Khalatnikov-Lifshitz geometry, then restarted time. The stars began to shimmer with distortion, as if seen through a turbulent atmosphere, then the sky itself seemed to boil, red shifts and blue shifts sweeping across it in churning waves. "If we were embodied, and strong enough to survive the tidal forces, we’d feel them oscillating wildly as we passed through regions collapsing and expanding in different directions." She modified the spacetime map accordingly, and enlarged it for a better view. Close to the singularity, the once-regular cylinders of constant tidal force now disintegrated into a random froth of ever finer, ever more distorted bubbles.
+
+Cordelia examined the map with an expression of consternation. "How are you going to do any kind of computation in an environment like that?"
+
+"We’re not. This is chaos–but chaotic systems are highly susceptible to manipulation. You know Tiplerian theology? The doctrine that we should try to reshape the universe to allow infinite computation to take place before the Big Crunch?"
+
+"Yes."
+
+Gisela spread her arms to take in all of Chandrasekhar. "Reshaping a black hole is easier. With a closed universe, all you can do is rearrange what’s already there; with a black hole, you can pour new matter and radiation in from all directions. By doing that, we’re hoping to steer the geometry into a more orderly collapse–not the Schwarzchild version, but one that lets light circumnavigate the space inside the hole many times. Cartan Null will be made of counter-rotating beams of light, modulated with pulses like beads on a string. As they pass through each other, the pulses will interact; they’ll be blue-shifted to energies high enough for pair-production, and eventually even high enough for gravitational effects. Those beams will be our memory, and their interactions will drive all our computation–with luck, down almost to the Planck scale: ten-to-the-minus-thirty-five meters."
+
+Cordelia contemplated this in silence, then asked hesitantly, "But how much computation will you be able to do?"
+
+"In total?" Gisela shrugged. "That depends on details of the structure of spacetime at the Planck scale–details we won’t know until we’re inside. There are some models that would allow us to do the whole Tiplerian thing in miniature: infinite computation. But most give a range of finite answers, some large, some small."
+
+Cordelia was beginning to look positively gloomy. Surely she’d known about the Divers’ fate all along?
+
+Gisela said, "You do realize we’re sending in clones? No one’s moving their sole version into Cartan Null!"
+
+"I know." Cordelia averted her eyes. "But once you are the clone . . . won’t you be afraid of dying?"
+
+Gisela was touched. "Only slightly. And not at all, at the end. While there’s still a slender chance of infinite computation–or even some exotic discovery that might allow us to escape–we’ll hang on to the fear of death. It should help motivate us to examine all the options! But if and when it’s clear that dying is inevitable, we’ll switch off the old instinctive response, and just accept it."
+
+Cordelia nodded politely, but she didn’t seem at all convinced. If you’d been raised in a polis that celebrated "the lost flesher virtues," this probably sounded like cheating at best, and self-mutilation at worst.
+
+"Can we go back now, please? My father will be awake soon."
+
+"Of course." Gisela wanted to say something to this strange, solemn child to put her mind at ease, but she had no idea where to begin. So they jumped out of the scape together–out of their fictitious light cones–abandoning the simulation before it was forced to admit that it was offering neither the chance of new knowledge, nor the possibility of death.
+
+ 
+
+When Prospero woke, Gisela introduced herself and asked what he wished to see. She suggested a schematic of Cartan Null; it didn’t seem tactful to mention that Cordelia had already toured Chandrasekhar, but offering him a scape that neither had seen seemed like a diplomatic way of side-stepping the issue.
+
+Prospero smiled at her indulgently. "I’m sure your Falling City is ingeniously designed, but that’s of no interest to me. I’m here to scrutinize your motives, not your machines."
+
+"Our motives?" Gisela wondered if there’d been a translation error. "We’re curious about the structure of spacetime. Why else would someone dive into a black hole?"
+
+Prospero’s smile broadened. "That’s what I’m here to determine. There’s a wide range of choices besides the Pandora myth: Prometheus, Quixote, the Grail of course . . . perhaps even Orpheus. Do you hope to rescue the dead?"
+
+"Rescue the dead?" Gisela was dumbfounded. "Oh, you mean Tiplerian resurrection? No, we have no plans for that at all. Even if we obtained infinite computing power, which is unlikely, we’d have far too little information to recreate any specific dead fleshers. As for resurrecting everyone by brute force, simulating every possible conscious being . . . there’d be no sure way to screen out in advance simulations that would experience extreme suffering–and statistically, they’re likely to outnumber the rest by about ten thousand to one. So the whole thing would be grossly unethical."
+
+"We shall see." Prospero waved her objections away. "What’s important is that I meet all of Charon’s passengers as soon as possible."
+
+"Charon’s. . . ? You mean the Dive team?"
+
+Prospero shook his head with an anguished expression, as if he’d been misunderstood, but he said, "Yes, assemble your ‘Dive team.’ Let me speak to them all. I can see how badly I’m needed here!"
+
+Gisela was more bewildered than ever. "Needed? You’re welcome here, of course . . . but in what way are you needed?"
+
+Cordelia reached over and tugged at her father’s arm. "Can we wait in the castle? I’m so tired." She wouldn’t look Gisela in the eye.
+
+"Of course, my darling!" Prospero leant down and kissed her forehead. He pulled a rolled-up parchment out of his robe and tossed it into the air. It unfurled into a doorway, hovering above the ocean beside the pier, leading into a sunlit scape. Gisela could see vast, overgrown gardens, stone buildings, winged horses in the air. It was a good thing they’d compressed their accommodation more efficiently than their bodies, or they would have tied up the gamma ray link for about a decade.
+
+Cordelia stepped through the doorway, holding Prospero’s hand, trying to pull him through. Trying, Gisela finally realized, to shut him up before he could embarrass her further.
+
+Without success. With one foot still on the pier, Prospero turned to Gisela. "Why am I needed? I’m here to be your Homer, your Virgil, your Dante, your Dickens! I’m here to extract the mythic essence of this glorious, tragic endeavor! I’m here to grant you a gift infinitely greater than the immortality you seek!"
+
+Gisela didn’t bother pointing out, yet again, that she had every expectation of a much shorter life inside the hole than out. "What’s that?"
+
+"I’m here to make you legendary!" Prospero stepped off the pier, and the doorway contracted behind him.
+
+Gisela stared out across the ocean, unseeing for a moment, then sat down slowly and let her feet dangle in the icy water.
+
+Certain things were beginning to make sense.
+
+ 
+
+"Be nice," Gisela pleaded. "For Cordelia’s sake."
+
+Timon feigned wounded puzzlement. "What makes you think I won’t be nice? I’m always nice." He morphed briefly from his usual angular icon–all rib-like frames and jointed rods–into a button-eyed teddy bear.
+
+Gisela groaned softly. "Listen. If I’m right–if she’s thinking of migrating to Cartan–it will be the hardest decision she’s ever had to make. If she could just walk away from Athena, she would have done it by now–instead of going to all the trouble of making her father believe that it was his idea to come here."
+
+"What makes you so sure it wasn’t?"
+
+"Prospero has no interest in reality; the only way he could have heard of the Dive would be Cordelia bringing it to his attention. She must have chosen Cartan because it’s far enough from Earth to make a clean break–and the Dive gave her the excuse she needed, a fit subject for her father’s ‘talents’ to dangle in front of him. But until she’s ready to tell him that she’s not going back, we mustn’t alienate him. We mustn’t make things harder for her than they already are."
+
+Timon rolled his eyes into his anodized skull. "All right! I’ll play along! I suppose there is a chance you might be reading her correctly. But if you’re mistaken . . ."
+
+Prospero chose that moment to make his entrance, robes billowing, daughter in tow. They were in a scape created for the occasion, to Prospero’s specifications: a room shaped like two truncated square pyramids joined at their bases, paneled in white, with a twenty-M view of Chandrasekhar through a trapezoidal window. Gisela had never seen this style before; Timon had christened it "Athenian Astrokitsch."
+
+The five members of the Dive team were seated around a semi-circular table. Prospero stood before them while Gisela made the introductions: Sachio, Tiet, Vikram, Timon. She’d spoken to them all, making the case for Cordelia, but Timon’s half-hearted concession was the closest thing she’d received to a guarantee. Cordelia shrank into a corner of the room, eyes downcast.
+
+Prospero began soberly. "For nigh on a thousand years, we, the descendants of the flesh, have lived our lives wrapped in dreams of heroic deeds long past. But we have dreamed in vain of a new Odyssey to inspire us, new heroes to stand beside the old, new ways to retell the eternal myths. Three more days, and your journey would have been wasted, lost to us forever." He smiled proudly. "But I have arrived in time to pluck your tale from the very jaws of gravity!"
+
+Tiet said, "Nothing was at risk of being lost. Information about the Dive is being broadcast to every polis, stored in every library." Tiet’s icon was like a supple jeweled statue carved from ebony.
+
+Prospero waved a hand dismissively. "A stream of technical jargon. In Athena, it might as well have been the murmuring of the waves."
+
+Tiet raised an eyebrow. "If your vocabulary is impoverished, augment it–don’t expect us to impoverish our own. Would you give an account of classical Greece without mentioning the name of a single city-state?"
+
+"No. But those are universal terms, part of our common heritage–"
+
+"They’re terms that have no meaning outside a tiny region of space, and a brief period of time. Unlike the terms needed to describe the Dive, which are applicable to every quartic femtometre of spacetime."
+
+Prospero replied, a little stiffly, "Be that as it may, in Athena we prefer poetry to equations. And I have come to honor your journey in language that will resonate down the corridors of the imagination for millennia."
+
+Sachio said, "So you believe you’re better qualified to portray the Dive than the participants?" Sachio appeared as an owl, perched inside the head of a flesher-shaped wrought-iron cage full of starlings.
+
+"I am a narratologist."
+
+"You have some kind of specialized training?"
+
+Prospero nodded proudly. "Though in truth, it is a vocation. When ancient fleshers gathered around their campfires, I was the one telling stories long into the night, of how the gods fought among themselves, and even mortal warriors were raised up into the sky to make the constellations."
+
+Timon replied, deadpan, "And I was the one sitting opposite, telling you what a load of drivel you were spouting." Gisela was about to turn on him, to excoriate him for breaking his promise, when she realized that he’d spoken to her alone, routing the data outside the scape. She shot him a poisonous glance.
+
+Sachio’s owl blinked with puzzlement. "But you find the Dive itself incomprehensible. So how are you suited to explain it to others?"
+
+Prospero shook his head. "I have come to create enigmas, not explanations. I have come to shape the story of your descent into a form that will live on long after your libraries have turned to dust."
+
+"Shape it how?" Vikram was as anatomically correct as a Da Vinci sketch, when he chose to be, but he lacked the tell-tale signs of a physiological simulation: no sweat, no dead skin, no shed hair. "You mean change things?"
+
+"To extract the mythic essence, mere detail must become subservient to a deeper truth."
+
+Timon said, "I think that was a yes."
+
+Vikram frowned amiably. "So what exactly will you change?" He spread his arms, and stretched them to encompass his fellow team members. "If we’re to be improved upon, do tell us how."
+
+Prospero said cautiously, "Five is a poor number, for a start. Seven, perhaps, or twelve."
+
+"Whew." Vikram grinned. "Shadowy extras only; no one’s for the chop."
+
+"And the name of your vessel . . ."
+
+"Cartan Null? What’s wrong with that? Cartan was a great flesher mathematician, who clarified the meaning and consequences of Einstein’s work. ‘Null’ because it’s built of null geodesics: the paths followed by light rays."
+
+"Posterity," Prospero declared, "will like it better as ‘The Falling City’–its essence unencumbered by your infelicitous words."
+
+Tiet said coolly, "We named this polis after Elie Cartan. Its clone inside Chandrasekhar will be named after Elie Cartan. If you’re unwilling to respect that, you might as well head back to Athena right now, because no one here is going to offer you the slightest cooperation."
+
+Prospero glanced at the others, possibly looking for some evidence of dissent. Gisela had mixed feelings; Prospero’s mythopoeic babble would not outlive the truth in the libraries, whatever he imagined, so in a sense it hardly mattered what it contained. But if they didn’t draw the line somewhere, she could imagine his presence rapidly becoming unbearable.
+
+He said, "Very well. Cartan Null. I am an artisan as well as an artist; I can work with imperfect clay."
+
+As the meeting broke up, Timon cornered Gisela. Before he could start complaining, she said, "If you think three more days of that is too awful to contemplate, imagine what it’s like for Cordelia."
+
+Timon shook his head. "I’ll keep my word. But now that I’ve seen what she’s up against . . . I really don’t think she’s going to make it. If she’s been wrapped in propaganda about the golden age of fleshers all her life, how can you expect her to see through it? A polis like Athena forms a closed trapped memetic surface: concentrate enough Prosperos in one place, and there’s no escape."
+
+Gisela eyed him balefully. "She’s here, isn’t she? Don’t try telling me that she’s bound to Athena forever, just because she was created there. Nothing’s as simple as that. Even black holes emit Hawking radiation."
+
+"Hawking radiation carries no information. It’s thermal noise; you can’t tunnel out with it." Timon swept two fingers along a diagonal line, the gesture for "QED."
+
+Gisela said, "It’s only a metaphor, you idiot, not an isomorphism. If you can’t tell the difference, maybe you should fuck off to Athena yourself."
+
+Timon mimed pulling his hand back from something biting it, and vanished.
+
+Gisela looked around the empty scape, angry with herself for losing her temper. Through the window, Chandrasekhar was calmly proceeding to crush spacetime out of existence, as it had for the past six billion years.
+
+She said, "And you’d better not be right."
+
+ 
+
+Fifty hours before the Dive, Vikram instructed the probes in the lowest orbits to begin pouring nanomachines through the event horizon. Gisela and Cordelia joined him in the control scape, a vast hall full of maps and gadgets for manipulating the hardware scattered around Chandrasekhar. Prospero was off interrogating Timon, an ordeal Vikram had just been through himself. "Oedipal urges" and "womb/vagina symbolism" had figured prominently, though Vikram had cheerfully informed Prospero that as far as he knew, no one in Cartan had ever shown much interest in either organ. Gisela found herself wondering precisely how Cordelia had been created; slavish simulations of flesher childbirth didn’t bear thinking about.
+
+The nanomachines comprised only a trickle of matter, a few tons per second. Deep inside the hole, though, they’d measure the curvature around them–observing both starlight and signals from the nanomachines following behind–then modify their own collective mass distribution in such a way as to steer the hole’s future geometry closer to the target. Every deviation from free-fall meant jettisoning molecular fragments and sacrificing chemical energy, but before they’d entirely ripped themselves apart they’d give birth to photonic machines tailored to do the same thing on a smaller scale.
+
+It was impossible to know whether or not any of this was working as planned, but a map in the scape showed the desired result. Vikram sketched in two counter-rotating bundles of light rays. "We can’t avoid having space collapsing in two directions and expanding in the third–unless we poured in so much matter that it collapsed in all three, which would be even worse. But it’s possible to keep changing the direction of expansion, flipping it ninety degrees again and again, evening things out. That allows light to execute a series of complete orbits–each taking about one hundredth the time of the previous one–and it also means there are periods of contraction across the beams, which counteract the de-focusing effects of the periods of expansion."
+
+The two bundles of rays oscillated between circular and elliptical cross-sections as the curvature stretched and squeezed them. Cordelia created a magnifying glass and followed them "in": forward in time, toward the singularity. She said, "If the orbital periods form a geometric series, there’s no limit to the number of orbits you could fit in before the singularity. And the wavelength is blue-shifted in proportion to the size of the orbit, so diffraction effects never take over. So what’s there to stop you doing infinite computation?"
+
+Vikram replied cautiously, "For a start, once colliding photons start creating particle-antiparticle pairs, there’ll be a range of energies for each species of particle when it will be traveling so much slower than lightspeed that the pulses will begin to smear. We think we’ve shaped and spaced the pulses in such a way that all the data will survive, but it would only take one unknown massive particle to turn the whole stream into gibberish."
+
+Cordelia looked up at him with a hopeful expression. "What if there are no unknown particles?"
+
+Vikram shrugged. "In Kumar’s model, time is quantized, so the frequency of the beams can’t keep rising without limit. And most of the alternative theories also imply that the whole setup will fail eventually, for one reason or another. I only hope it fails slowly enough for us to understand why, before we’re incapable of understanding anything." He laughed. "Don’t look so mournful! It will be like . . . the death of one branch of a tree. And maybe we’ll gain some knowledge for a while that we could never even glimpse, outside the hole."
+
+"But you won’t be able to do anything with it," Cordelia protested. "Or tell anyone."
+
+"Ah, technology and fame." Vikram blew a raspberry. "Listen, if my Dive clone dies learning nothing, he’ll still die happy, knowing that I continued outside. And if he learns everything I’m hoping he’ll learn . . . he’ll be too ecstatic to go on living." Vikram composed his face into a picture of exaggerated earnestness, deflating his own hyperbole, and Cordelia actually smiled. Gisela had been beginning to wonder if morbid grief over the fate of the Divers would be enough to put her off Cartan altogether.
+
+Cordelia said, "What would make it worthwhile, then? What’s the most you could hope for?"
+
+Vikram sketched a Feynman diagram in the air between them. "If you take spacetime for granted, rotational symmetry plus quantum mechanics gives you a set of rules for dealing with a particle’s spin. Penrose turned this inside out, and showed that the whole concept of ‘the angle between two directions’ can be created from scratch in a network of world lines, so long as they obey those spin rules. Suppose a system of particles with a certain total spin throws an electron to another system, and in the process the first system’s spin decreases. If you knew the angle between the two spin vectors, you could calculate the probability that the second spin was increased rather than decreased . . . but if the concept of ‘angle’ doesn’t even exist yet, you can work backward and define it from the probability you get by looking at all the networks for which the second spin is increased.
+
+"Kumar and others extended this idea to cover more abstract symmetries. From a list of rules about what constitutes a valid network, and how to assign a phase to each one, we can now derive all known physics. But I want to know if there’s a deeper explanation for those rules. Are spin and the other quantum numbers truly elementary, or are they the product of something more fundamental? And when networks reinforce or cancel each other according to the phase difference between them, is that something basic we just have to accept, or is there hidden machinery beneath the mathematics?"
+
+Timon appeared in the scape, and drew Gisela aside. "I’ve committed a small infraction–and knowing you, you’ll find out anyway. So this is a confession in the hope of leniency."
+
+"What have you done?"
+
+Timon regarded her nervously. "Prospero was rambling on about flesher culture as the route to all knowledge." He morphed into a perfect imitation, and replayed Prospero’s voice: "‘The key to astronomy lies in the study of the great Egyptian astrologers, and the heart of mathematics is revealed in the rituals of the Pythagorean mystics . . .’"
+
+Gisela put her face in her hands; she would have been hard-pressed not to respond herself. "And you said–?"
+
+"I told him that if he was ever embodied in a space suit, floating among the stars, he ought to try sneezing on the face plate to improve the view."
+
+Gisela cracked up laughing. Timon asked hopefully, "Does that mean I’m forgiven?"
+
+"No. How did he take it?"
+
+"Hard to tell." Timon frowned. "I’m not sure that he’s capable of grasping insults. It would require imagining that someone could believe that he’s less than essential to the future of civilization."
+
+Gisela said sternly, "Two more days. Try harder."
+
+"Try harder yourself. It’s your turn now."
+
+"What?"
+
+"Prospero wants to see you." Timon grinned with malicious pleasure. "Time to have your own mythic essence extracted."
+
+Gisela glanced toward Cordelia; she was talking animatedly with Vikram. Athena, and Prospero, had suffocated her; it was only away from both that she came to life. The decision to migrate was hers alone, but Gisela would never forgive herself if she did anything to diminish the opportunity.
+
+Timon said, "Be nice."
+
+ 
+
+The Dive team had decided against any parting of the clones; their frozen snapshots would be incorporated into the blueprint for Cartan Null without ever being run outside Chandrasekhar. When Gisela had told Prospero this, he’d been appalled, but he’d cheered up almost immediately; it left him all the more room to invent some ritual farewell for the travelers, without being distracted by the truth.
+
+The whole team did gather in the control scape, though, along with Prospero and Cordelia, and a few dozen friends. Gisela stood apart from the crowd as Vikram counted down to the deadline. On "ten," she instructed her exoself to clone her. On "nine," she sent the snapshot to the address being broadcast by an icon for the Cartan Null file–a stylized set of counter-rotating light beams–hovering in the middle of the scape. When the tag came back confirming the transaction, she felt a surge of loss; the Dive was no longer part of her own linear future, even if she thought of the clone as a component of her extended self.
+
+Vikram shouted exuberantly, "Three! Two! One!" He picked up the Cartan Null icon and tossed it into a map of the spacetime around Chandrasekhar. This triggered a gamma-ray burst from the polis to a probe with an eight-M orbit; there, the data was coded into nanomachines designed to re-create it in active, photonic form–and those nanomachines joined the stream cascading into the hole.
+
+On the map, the falling icon veered into a "motionless" vertical world line as it approached the two-M shell. Successive slices of constant time in the static frame outside the hole never crossed the horizon, they merely clung to it; by one definition, the nanomachines would take forever to enter Chandrasekhar.
+
+By another definition, the Dive was over. In their own frame, the nanomachines would have taken less than one-and-a-half milliseconds to fall from the probe to the horizon, and not much longer to reach the point where Cartan Null was launched. And however much subjective time the Divers had experienced, however much computing had been done along the way, the entire region of space containing Cartan Null would have been crushed into the singularity a few microseconds later.
+
+"If the Divers tunneled out of the hole, there’d be a paradox, wouldn’t there?" Gisela turned; she hadn’t noticed Cordelia behind her. "Whenever they emerged, they wouldn’t have fallen in yet–so they could swoop down and grab the nanomachines, preventing their own births." The idea seemed to disturb her.
+
+Gisela said, "Only if they tunneled out close to the horizon. If they appeared further away–say here in Cartan, right now–they’d already be too late. The nanomachines have had too much of a head start; the fact that they’re almost standing still in our reference frame doesn’t make them an easy target if you’re actually chasing after them. Even at lightspeed, nothing could catch them from here."
+
+Cordelia appeared to take heart from this. "So escape isn’t impossible?"
+
+"Well . . ." Gisela thought of listing some of the other hurdles, but then she began to wonder if the question was about something else entirely. "No. It’s not impossible."
+
+Cordelia gave her a conspiratorial smile. "Good."
+
+Prospero cried out, "Gather round! Gather round now and hear The Ballad of Cartan Null!" He created a podium, rising beneath his feet. Timon sidled up to Gisela and whispered, "If this involves a lute, I’m sending my senses elsewhere."
+
+It didn’t; the blank verse was delivered without musical accompaniment. The content, though, was even worse than Gisela had feared. Prospero had ignored everything she and the others had told him. In his version of events, "Charon’s passengers" entered "gravity’s abyss" for reasons he’d invented out of thin air: to escape, respectively, a failed romance/vengeance for an unspeakable crime/the ennui of longevity; to resurrect a lost flesher ancestor; to seek contact with "the gods." The universal questions the Divers had actually hoped to answer–the structure of spacetime at the Planck scale, the underpinnings of quantum mechanics–didn’t rate a mention.
+
+Gisela glanced at Timon, but he seemed to be taking the news that his sole version had just fled into Chandrasekhar to avoid punishment for an unnamed atrocity extremely well; there was disbelief on his face, but no anger. He said softly, "This man lives in Hell. Mucous on the face plate is all he’ll ever see."
+
+The audience stood in silence as Prospero began to "describe" the Dive itself. Timon stared at the floor with a bemused smile. Tiet wore an expression of detached boredom. Vikram kept peeking at a display behind him, to see if the faint gravitational radiation emitted by the inflowing nanomachines was still conforming to his predictions.
+
+It was Sachio who finally lost control and interjected angrily, "Cartan Null is some ghostly image of a scape, full of ghostly icons, floating through the vacuum, down into the hole?"
+
+Prospero seemed more startled than outraged by the interruption. "It is a city of light. Translucent, ethereal . . ."
+
+The owl in Sachio’s skull puffed its feathers out. "No photon state would look like that. What you describe could never exist, and even if it could it would never be conscious." Sachio had worked for decades on the problem of giving Cartan Null the freedom to process data without disrupting the geometry around it.
+
+Prospero spread his arms in a conciliatory gesture. "An archetypal quest narrative must be kept simple. To burden it with technicalities–"
+
+Sachio inclined his head briefly, fingertips to forehead, downloading information from the polis library. "Do you have any idea what archetypal narratives are?"
+
+"Messages from the gods, or from the depths of the soul; who can say? But they encode the most profound and mysterious–"
+
+Sachio cut him off impatiently. "They’re the product of a few chance attractors in flesher neurophysiology. Whenever a more complex or subtle story was disseminated through an oral culture, it would eventually degenerate into an archetypal narrative. Once writing was invented, they were only ever created deliberately by fleshers who failed to understand what they were. If all of antiquity’s greatest statues had been dropped into a glacier, they would have been reduced to a predictable spectrum of spheroidal pebbles by now; that does not make the spheroidal pebble the pinnacle of the artform. What you’ve created is not only devoid of truth, it’s devoid of aesthetic merit."
+
+Prospero was stunned. He looked around the room expectantly, as if waiting for someone to speak up in defense of the Ballad.
+
+No one made a sound.
+
+This was it: the end of diplomacy. Gisela spoke privately to Cordelia, whispering urgently: "Stay in Cartan! No one can force you to leave!"
+
+Cordelia turned to her with an expression of open astonishment. "But I thought–" She fell silent, reassessing something, hiding her surprise.
+
+Then she said, "I can’t stay."
+
+"Why not? What is there to stop you? You can’t stay buried in Athena–" Gisela caught herself; whatever bizarre hold the place had on her, disparaging it wouldn’t help.
+
+Prospero was muttering in disbelief now, "Ingratitude! Base ingratitude!" Cordelia regarded him with forlorn affection. "He’s not ready." She faced Gisela, and spoke plainly. "Athena won’t last forever. Polises like that form and decay; there are too many real possibilities for people to cling to one arbitrary sanctified culture, century after century. But he’s not prepared for the transition; he doesn’t even realize it’s coming. I can’t abandon him to that. He’s going to need someone to help him through." She smiled suddenly, mischievously. "But I’ve cut two centuries off the waiting time. If nothing else, the trip did that."
+
+Gisela was speechless for a moment, shamed by the strength of this child’s love. Then she sent Cordelia a stream of tags. "These are references to the best libraries on Earth. You’ll get the real stuff there, not some watered-down version of flesher physics."
+
+Prospero was shrinking the podium, descending to ground level. "Cordelia! Come to me now. We’re leaving these barbarians to the obscurity they deserve!"
+
+For all that she admired Cordelia’s loyalty, Gisela was still saddened by her choice. She said numbly, "You belong in Cartan. It should have been possible. We should have been able to find a way."
+
+Cordelia shook her head: no failure, no regrets. "Don’t worry about me. I’ve survived Athena so far; I think I can see it through to the end. Everything you’ve shown me, everything I’ve done here, will help." She squeezed Gisela’s hand. "Thank you."
+
+She joined her father. Prospero created a doorway, opening up onto a yellow brick road through the stars. He stepped through, and Cordelia followed him.
+
+Vikram turned away from the gravitational wave trace and asked mildly, "All right, you can own up now: who threw in the additional exabyte?"
+
+ 
+
+"Freeeeee-dom!" Cordelia bounded across Cartan Null’s control scape, a long platform floating in a tunnel of color-coded Feynman diagrams, streaming through the darkness like the trails of a billion colliding and disintegrating sparks.
+
+Gisela’s first instinct was to corner her and shout in her face: Kill yourself now! End this now! A brief side-branch, cut short before there was time for personality divergence, hardly counted as a real life and a real death. It would be a forgotten dream, nothing more.
+
+That analysis didn’t hold up, though. From the instant she’d become conscious, this Cordelia had been an entirely separate person: the one who’d left Athena forever, the one who’d escaped. Her extended self had invested far too much in this clone to treat it as a mistake and cut its losses. Beyond anything it hoped for itself, the clone knew exactly what its existence meant for the original. To betray that, even if it could never be found out, would be unthinkable.
+
+Tiet said sharply, "You didn’t raise her hopes, did you?"
+
+Gisela thought back over their conversations. "I don’t think so. She must know there’s almost no chance of survival."
+
+Vikram looked troubled. "I might have put our own case too strongly. She might believe the same discoveries will be enough for her–but I’m not sure they will."
+
+Timon sighed impatiently. "She’s here. That’s irreversible; there’s no point agonizing about it. All we can do is give her the chance to make what she can of the experience."
+
+A horrifying thought struck Gisela. "The extra data hasn’t overburdened us, has it? Ruled out access to the full computational domain?" Cordelia had compressed herself down to a far leaner program than the version she’d sent from Earth, but it was still an unexpected load.
+
+Sachio made a sound of indignation. "How badly do you think I did my job? I knew someone would bring in more than they’d promised; I left a hundredfold safety margin. One stowaway changes nothing."
+
+Timon touched Gisela’s arm. "Look." Cordelia had finally slowed down enough to start examining her surroundings. The primary beams, the infrastructure for all their computation, had already been blue-shifted to hard gamma rays, and the colliding photons were creating pairs of relativistic electrons and positrons. In addition, a range of experimental beams with shorter wavelengths probed the physics of length scales ten thousand times smaller–physics that would apply to the primary beams about a subjective hour later. Cordelia found the window with the main results from these beams. She turned and called out, "Lots of mesons full of top and bottom quarks ahead, but nothing unexpected!"
+
+"Good!" Gisela felt the knot of guilt and anxiety inside her begin to unwind. Cordelia had chosen the Dive freely, just like the rest of them. The fact that it had been a hard decision for her to make was no reason to assume that she’d regret it.
+
+Timon said, "Well, you were right. I was wrong. She certainly tunneled out of Athena."
+
+"Yeah. So much for your theory of closed trapped memetic surfaces." Gisela laughed. "Pity it was just a metaphor, though."
+
+"Why? I thought you’d be overjoyed that she made it."
+
+"I am. It’s just a shame that it says nothing at all about our own chances of escape."
+
+ 
+
+Each orbit gave them thirty minutes of subjective time, while the true length and time scales of Cartan Null shrank a hundredfold. Sachio and Tiet scrutinized the functioning of the polis, checking and rechecking the integrity of the "hardware" as new species of particles entered the pulse trains. Timon reviewed various methods for shunting information into new modes, if the opportunity arose. Gisela struggled to bring Cordelia up to speed, and Vikram, whose main work had been the nanomachines, helped her.
+
+The shortest-wavelength beams were still recapitulating the results of old particle accelerator experiments; the three of them pored over the data together. Gisela summarized as best she could. "Charge and the other quantum numbers generate a kind of angle between world lines in the networks, just like spin does, but in this case they act like angles in five-dimensional space. At low energies what you see are three separate subspaces, for electromagnetism and the weak and strong forces."
+
+"Why?"
+
+"An accident in the early universe with Higgs bosons. Let me draw a picture . . ."
+
+There was no time to go into all the subtleties of particle physics, but many of the issues that were crucial outside Chandrasekhar were becoming academic for Cartan Null anyway. Broken symmetries were being restored as they spoke, with increasing kinetic energy diluting differences in rest mass into insignificance. The polis was rapidly mutating into a hybrid of every possible particle type; what governed their future would not be the theory of any one force, but the nature of quantum mechanics itself.
+
+"What lies behind the frequency and wavelength of a particle?" Vikram sketched a snapshot of a wave packet on a spacetime diagram. "In its own reference frame, an electron’s phase rotates at a constant rate: about once every ten-to-the-minus-twenty seconds. If it’s moving, we see that rate slowed down by time dilation, but that’s not the whole picture." He drew a set of components fanning out at different velocities from a single point on the wave, then marked off successive points where the phase came full circle for each one. The locus of these points formed a set of hyperbolic wavefronts in spacetime, like a stack of conical bowls–packed more tightly, in both time and space, where the components’ velocity was greater. "The spacing of the original wave is only reproduced by components with just the right velocity; they trace out identical copies of the wave at later times, all neatly superimposed. Components with the wrong velocity scramble the phase, so their copies all cancel out." He repeated the entire construction for a hundred points along the wave, and it propagated neatly into the future. "In curved spacetime, the whole process becomes distorted–but given the right symmetries, the shape of the wave can be preserved while the wavelength shrinks and the frequency rises." Vikram warped the diagram to demonstrate. "Our own situation."
+
+Cordelia took this all in, scribbling calculations, cross-checking everything to her own satisfaction. "Okay. So why does that have to break down? Why can’t we just keep being blue-shifted?"
+
+Vikram zoomed in on the diagram. "All phase shifts ultimately come from interactions–intersections of one world line with another. In the Kumar model, every network of world lines has a finite weave. At each intersection, there’s a tiny phase shift that makes time jump by about ten-to-the-minus-forty-three seconds . . . and it’s meaningless to talk about either a smaller phase shift, or a shorter time scale. So if you try to blue-shift a wave indefinitely, eventually you reach a point where the whole system no longer has the resolution to keep reproducing it." As the wave packet spiraled in, it began to take on a smeared, jagged approximation of its former shape. Then it disintegrated into unrecognizable noise.
+
+Cordelia examined the diagram carefully, tracing individual components through the final stages of the process. Finally she said, "How long before we see evidence of this? Assuming the model’s correct?"
+
+Vikram didn’t reply; he seemed to be having second thoughts about the wisdom of the whole demonstration. Gisela said, "In about two hours we should be able to detect quantized phase in the experimental beams. And then we’ll have another hour or so before–" Vikram glanced meaningfully at her–privately, but Cordelia must have guessed why the sentence trailed off, because she turned on him.
+
+"What do you think I’m going to do?" she demanded indignantly. "Collapse into hysterics at the first glimmering of mortality?"
+
+Vikram looked stung. Gisela said, "Be fair. We’ve only known you three days. We don’t know what to expect."
+
+"No." Cordelia gazed up at the stylized image of the beam that encoded them, swarming now with everything from photons to the heaviest mesons. "But I’m not going to ruin the Dive for you. If I’d wanted to brood about death, I would have stayed home and read bad flesher poetry." She smiled. "Baudelaire can screw himself. I’m here for the physics."
+
+ 
+
+Everyone gathered round a single window as the moment of truth for the Kumar model approached. The data it displayed came from what was essentially a two-slit interference experiment, complicated by the need to perform it without anything resembling solid matter. A sinusoidal pattern showed the numbers of particles detected across a region where an electron beam recombined with itself after traveling two different paths; since there were only a finite number of detection sites, and each count had to be an integer, the pattern was already "quantized," but the analysis software took this into account, and the numbers were large enough for the image to appear smooth. At a certain wavelength, any genuine Planck scale effects would rise above these artifacts, and once they appeared they’d only grow stronger.
+
+The software said, "Found something!" and zoomed in to show a slight staircasing of the curve. At first it was so subtle that Gisela had to take the program’s word that it wasn’t merely showing them the usual, unavoidable jagging. Then the tiny steps visibly broadened, from two horizontal pixels to three. Sets of three adjacent detection sites, which moments ago had been registering different particle counts, were now returning identical results. The whole apparatus had shrunk to the point where the electrons couldn’t tell that the path lengths involved were different.
+
+Gisela felt a rush of pure delight, then an aftertaste of fear. They were reaching down to brush their fingertips across the weave of the vacuum. It was a triumph that they’d survived this far, but their descent was almost certainly unstoppable.
+
+The steps grew wider; the image zoomed out to show more of the curve. Vikram and Tiet cried out simultaneously, a moment before the analysis software satisfied itself with rigorous statistical tests. Vikram repeated softly, "That’s wrong." Tiet nodded, and spoke to the software. "Show us a single wave’s phase structure." The display changed to a linear staircase. It was impossible to measure the changing phase of a single wave directly, but assuming that the two versions of the beam were undergoing identical changes, this was the progression implied by the interference pattern.
+
+Tiet said, "This is not in agreement with the Kumar model. The phase is quantized, but the steps aren’t equal–or even random, like the Santini model. They’re structured across the wave, in cycles. Narrower, broader, narrower again . . ."
+
+Silence descended. Gisela gazed at the pattern and struggled to concentrate, elated that they’d found something unexpected, terrified that they might fail to make sense of it. Why wouldn’t the phase shift come in equal units? This cyclic pattern was a violation of symmetry, allowing you to pick the phase with the smallest quantum step as a kind of fixed reference point–an idea that quantum mechanics had always declared to be as meaningless as singling out one direction in empty space.
+
+But the rotational symmetry of space wasn’t perfect: in small enough networks, the usual guarantee that all directions would look the same no longer held up. Was that the answer? The angles the two beams had to take to reach the detector were themselves quantized, and that effect was superimposed on the phase?
+
+No. The scale was all wrong. The experiment was still taking place over too large a region.
+
+Vikram shouted with joy, and did a backward somersault. "There are world lines crossing between the nets! That’s what creates phase!" Without another word, he began furiously sketching diagrams in the air, launching software, running simulations. Within minutes, he was almost hidden behind displays and gadgets.
+
+One window showed a simulation of the interference pattern, a perfect fit to the data. Gisela felt a stab of jealousy: she’d been so close, she should have been first. Then she began to examine more of the results, and the feeling evaporated. This was elegant, this was beautiful, this was right. It didn’t matter who’d discovered it.
+
+Cordelia was looking dazed, left behind. Vikram ducked out from the clutter he’d created, leaving the rest of them to try to make sense of it. He took Cordelia’s hands and they waltzed across the scape together. "The central mystery of quantum mechanics has always been: why can’t you just count the ways things can happen? Why do you have to assign each alternative a phase, so they can cancel as well as reinforce each other? We knew the rules for doing it, we knew the consequences–but we had no idea what phases were, or where they came from." He stopped dancing, and conjured up a stack of Feynman diagrams, five alternatives for the same process, layered one on top of the other. "They’re created the same way as every other relationship: common links to a larger network." He added a few hundred virtual particles, crisscrossing between the once-separate diagrams. "It’s like spin. If the networks have created directions in space that make two particles’ spins parallel, when they combine they’ll simply add together. If they’re anti-parallel, in opposing directions, they’ll cancel. Phase is the same, but it acts like an angle in two dimensions, and it works with every quantum number together: spin, charge, color, everything–if two components are perfectly out-of-phase, they vanish completely."
+
+Gisela watched as Cordelia reached into the layered diagram, followed the paths of two components, and began to understand. They hadn’t discovered any deeper structure to the individual quantum numbers, as they’d hoped they might, but they’d learnt that a single vast network of world lines could account for everything the universe built from those indivisible threads.
+
+Was this enough for her? Her original, struggling for sanity back in Athena, might take comfort from the hope that the Dive clone had witnessed a breakthrough like this–but as death approached, would it all turn to ashes for the witness? Gisela felt a pang of doubt herself, though she’d talked it through with Timon and the others for centuries. Did everything she felt at this moment lose all meaning, just because there was no chance to carry the experience back to the wider world? She couldn’t deny that it would have been better to know that she could reconnect with her other selves, tell all her distant family and friends what she’d learnt, follow through the implications for millennia.
+
+But the whole universe faced the same fate. Time was quantized; there was no prospect of infinite computation before the Big Crunch, for anyone. If everything that ended was void, the Dive had merely spared them the prolonged false hope of immortality. If every moment stood alone, complete in itself, then nothing could rob them of their happiness.
+
+The truth, of course, lay somewhere in between.
+
+Timon approached her, grinning with delight. "What are you pondering here by yourself?"
+
+She took his hand. "Small networks."
+
+Cordelia said to Vikram, "Now that you know precisely what phase is, and how it determines probabilities . . . is there any way we could use the experimental beams to manipulate the probabilities for the geometry ahead of us? Twist back the light cones just enough to keep us skirting the Planck region? Spiral back up around the singularity for a few billion years, until the Big Crunch comes, or the hole evaporates from Hawking radiation?"
+
+Vikram looked stunned for a moment, then he began launching software. Sachio and Tiet came and helped him, searching for computational shortcuts. Gisela looked on, light-headed, hardly daring to hope. To examine every possibility might take more time than they had, but then Tiet found a way to test whole classes of networks in a single calculation, and the process sped up a thousandfold.
+
+Vikram announced the result sadly. "No. It’s not possible."
+
+Cordelia smiled. "That’s all right. I was just curious."
