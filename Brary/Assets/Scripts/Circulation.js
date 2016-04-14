@@ -87,25 +87,31 @@ function GetBooks1()
     var folder: String = EditorUtility.OpenFolderPanel("Books Location", "", "");
     var info = new DirectoryInfo(folder);
     var fileInfo = info.GetFiles();
-    var list : List.<GameObject> = GetEmptySpots();
-
+    var listEmptyBooks : List.<GameObject> = GetEmptySpots();
+    var listEmptyFrames : List.<GameObject> = GetEmptyFrames();
 
     for(file in fileInfo)
     {
         var spot : int = Random.Range(0, list.Count-1);
 
         if(file.Extension == ".txt" || file.Extension ==".mobi")
-            var newBook : GameObject = Instantiate(book, list[spot].transform.position, list[spot].transform.rotation);
-        //var stack : GameObject = stackList[Random.Range(0, stackList.Count -1)];
-        //newBook.transform.position = stack.transform.position;
-        //newBook.transform.position.y += stack.GetComponent(BookStack).height * book.GetComponent(BoxCollider).bounds.size.y     ;
-        //stack.GetComponent(BookStack).height++;
-        //newBook.transform.rotation.y = Random.Range(0,360);
-        newBook.name = file.Name;         
-        newBook.AddComponent(Book);
-        newBook.GetComponent(Book).file = file;
-        Destroy(list[spot]);
-        list.Remove(list[spot]);
+        {
+            var newBook : GameObject = Instantiate(book, listEmptyBooks[spot].transform.position, listEmptyBooks[spot].transform.rotation);
+            //var stack : GameObject = stackList[Random.Range(0, stackList.Count -1)];
+            //newBook.transform.position = stack.transform.position;
+            //newBook.transform.position.y += stack.GetComponent(BookStack).height * book.GetComponent(BoxCollider).bounds.size.y     ;
+            //stack.GetComponent(BookStack).height++;
+            //newBook.transform.rotation.y = Random.Range(0,360);
+            newBook.name = file.Name;         
+            newBook.AddComponent(Book);
+            newBook.GetComponent(Book).file = file;
+            Destroy(listEmptyBooks[spot]);
+            list.Remove(listEmptyBooks[spot]);
+        }
+        if(file.Extension == ".jpg" || file.Extension == ".png")
+        {
+            
+        }
     }
 
     populated = true;
@@ -122,4 +128,15 @@ function GetEmptySpots() : List.<GameObject>
         }
 
     return emptyList;
+}
+
+function GetEmptyFrames () : List.<GameObject>
+{
+        var emptyList : List.<GameObject> = new List.<GameObject>();
+        var emptyArr : GameObject[] = GameObject.FindGameObjectsWithTag("FRAME");
+        for (var frame : GameObject in emptyArr)
+        {
+            emptyList.Add(frame);
+        }
+        return emptyList;
 }
